@@ -32,7 +32,10 @@ for (var i = 0; i <= 1 ; i++) {
         output.push(question);
 
         var fileName = question.vendorNum + "-" + question.setNum + "-" + question.packetNum;
-        outputSorted[fileName] = question;
+        
+        if (!outputSorted[fileName]) outputSorted[fileName] = [];
+        outputSorted[fileName].push(question);
+
         if (!metadata.vendorNum[question.vendorNum])
             metadata.vendorNum[question.vendorNum] = {};
         if (!metadata.vendorNum[question.vendorNum][question.setNum])
@@ -67,10 +70,20 @@ fs.writeFile("output.json", JSON.stringify(output), function(err) {
             console.log("Output ugly file was saved!");
 });
 
-fs.writeFile(OUTPUT_DIR + "metadata.json", JSON.stringify(metadata, null, 1), function(err) {
+// full metadata
+fs.writeFile(OUTPUT_DIR + "metadata.json", JSON.stringify(metadata, null, 0), function(err) {
             if (err) {
                 return console.log(err);
             }
-            //res.write("Saved");
             console.log("Metadata was saved!");
 });
+
+// individual question files
+for (let fileName in outputSorted) {
+    fs.writeFile(OUTPUT_DIR + fileName + ".json", JSON.stringify(outputSorted[fileName], null, 0), function(err) {
+                if (err) {
+                    return console.log(err);
+                }
+                console.log("File " + fileName + ".json was saved!");
+    });
+}
