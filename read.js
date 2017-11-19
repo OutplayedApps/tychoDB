@@ -41,9 +41,9 @@ for (var i = 0; i <= 1 ; i++) {
         if (!metadata.vendorNum[question.vendorNum][question.setNum])
             metadata.vendorNum[question.vendorNum][question.setNum] = {};
         if (!metadata.vendorNum[question.vendorNum][question.setNum][question.packetNum])
-            metadata.vendorNum[question.vendorNum][question.setNum][question.packetNum] = {"questionNum": [], "fileName": fileName};
+            metadata.vendorNum[question.vendorNum][question.setNum][question.packetNum] = {"numQuestions": 0, "fileName": fileName};
 
-        metadata.vendorNum[question.vendorNum][question.setNum][question.packetNum].questionNum.push(question.questionNum);
+        metadata.vendorNum[question.vendorNum][question.setNum][question.packetNum].numQuestions++;
 
     }
 }
@@ -71,7 +71,7 @@ fs.writeFile("output.json", JSON.stringify(output), function(err) {
 });
 
 // full metadata
-fs.writeFile(OUTPUT_DIR + "metadata.json", JSON.stringify(metadata, null, 0), function(err) {
+fs.writeFile(OUTPUT_DIR + "metadata.json", JSON.stringify(metadata, null, 2), function(err) {
             if (err) {
                 return console.log(err);
             }
@@ -80,7 +80,7 @@ fs.writeFile(OUTPUT_DIR + "metadata.json", JSON.stringify(metadata, null, 0), fu
 
 // individual question files
 for (let fileName in outputSorted) {
-    fs.writeFile(OUTPUT_DIR + fileName + ".json", JSON.stringify(outputSorted[fileName], null, 0), function(err) {
+    fs.writeFile(OUTPUT_DIR + fileName + ".json", JSON.stringify(outputSorted[fileName], null, 2), function(err) {
                 if (err) {
                     return console.log(err);
                 }
