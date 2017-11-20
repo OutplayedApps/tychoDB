@@ -1,0 +1,984 @@
+Medium Round 2017
+
+
+
+TOSS-UP
+
+
+
+1)  BIOLOGY  Short Answer  Indicate all of the following three statements that are TRUE concerning Southern blots:
+
+
+
+1.  They are used for the detection of specific DNA sequences
+
+2.  The gel electrophoretic technique used is SDS-PAGE
+
+3.  A nitrocellulose membrane is used to transfer extract material from the gel
+
+
+
+ANSWER:  1 AND 3
+
+
+
+BONUS
+
+
+
+2)  BIOLOGY  Short Answer  An inhibitor added to a enzyme results in an increase in its Michaelis constant K-sub-M, but V-max is discovered to remain constant. Indicate all of the following three statements that are TRUE:
+
+
+
+1.  The y-intercept of the Lineweaver-Burk plot does not change
+
+2.  The slope of the Lineweaver-Burk plot increases
+
+3.  The inhibitor is likely noncompetitive 
+
+
+
+ANSWER:  1 AND 2
+
+
+
+
+
+TOSS-UP
+
+
+
+2)  CHEMISTRY  Multiple Choice  Which of the following orbitals is the LUMO of the carbonyl functional group?
+
+
+
+W)  C-O sigma
+
+X)  C-O sigma-star
+
+Y) C-O pi
+
+Z) C-O pi-star
+
+
+
+ANSWER:  Z) C-O PI STAR
+
+
+
+BONUS
+
+
+
+2) CHEMISTRY  Short Answer  Rank the following three compounds in terms of increase rate of E1 elimination: 
+
+
+
+t-Butyl triflate
+
+Isopropyl chloride
+
+Isopropyl triflate
+
+
+
+ANSWER:  2. ISOPROPYL BROMIDE, 3. ISOPROPYL TRIFLATE, 1. T-BUTYL TRIFLATE (ACCEPT: 2, 3, 1)
+
+
+
+TOSS-UP
+
+
+
+3) PHYSICS  Multiple Choice  Consider an object placed in front of a concave mirror, at a distance less than the focal length of the mirror. Which of the following statements is TRUE of the image?
+
+
+
+W)  It is real and upright
+
+X)  It is real and inverted
+
+Y)  It is virtual and upright
+
+Z)  It is virtual and inverted
+
+
+
+ANSWER: Y)  IT IS VIRTUAL AND UPRIGHT
+
+
+
+BONUS
+
+
+
+3) PHYSICS  Multiple Choice   Consider a region of electric charge which has potential in volts V = x^2 + y^2 + z^2 for x,y,z in position units. Which of the following charge configurations would produce this electric potential?
+
+
+
+W)  Constant negative charge density 
+
+X)  Negative charge density that decreases with increasing distance from the origin
+
+Y)  Constant positive charge density
+
+Z)  Positive charge density that decreases with increasing distance from the origin
+
+
+
+ANSWER:  W)  CONSTANT NEGATIVE CHARGE DENSITY
+
+
+
+
+
+TOSS-UP
+
+
+
+4)  MATH   Multiple Choice   Which of the following equations has the most number of real solutions?
+
+
+
+W)  x^2 + 4x – 15 = 0
+
+X)  7x + 5 = 1 + 3x
+
+Y)  e^x = x
+
+Z)  ln(|x|) = 2x
+
+
+
+ANSWER:  W) X^2 + 4X – 15 = 0
+
+
+
+BONUS
+
+
+
+4) MATH  Short Answer  Suppose that the equation: 3x^5 + 96 = the integral from c to x of g(t) dt, is true for all real values of x for some function g(t). What must be the value of c?
+
+
+
+ANSWER:  -2
+
+TOSS-UP
+
+
+
+5)  EARTH AND SPACE SCIENCE  Short Answer  What class of variable stars are commonly found in globular clusters but have shorter periods and are older than type I Cepheids and of lower mass and less luminosity than type II Cepheids?
+
+
+
+ANSWER:  RR LYRAE VARIABLES
+
+
+
+BONUS
+
+
+
+5) EARTH AND SPACE SCIENCE  Short Answer  Indicate all of the following three statements that are TRUE of the year-averaged atmospheric pressure in different locations on Earth:
+
+
+
+1.  The equator is a site of a low-pressure trough
+
+2.  The polar regions both harbor wet, low-pressure systems year-round 
+
+3.  Westerlies diminish in the winters and intensify in the summers in both hemispheres
+
+
+
+ANSWER:  1 ONLY
+
+
+
+
+
+TOSS-UP
+
+
+
+6)  ENERGY  Short Answer  Indicate all of the following three statements that are TRUE of coal gasification:
+
+
+
+1.  The end product of the reaction is a mixture of mostly CO2 and steam
+
+2.  Sulfur must be removed in the process
+
+3.  Natural gas has a higher energy density than syngas
+
+
+
+ANSWER:  2 AND 3
+
+
+
+BONUS
+
+
+
+6) ENERGY  Short Answer  DOE researchers at Berkeley lab recently used X-ray crystallography to solve the crystal structure of the soluble NS5 guanine methyltransferase enzyme in the Zika virus. Indicate all of the following three statements that are TRUE concerning this study:
+
+
+
+1.  Zika is an RNA-virus
+
+2.  NS5 is likely to be a transmembrane protein
+
+3.  NS5 is important in forming the 5’-cap needed in viral mRNA processing
+
+
+
+ANSWER: 1 AND 3
+
+
+
+TOSS-UP
+
+
+
+7)  CHEMISTRY  Short Answer  Indicate all of the following three elements that are matched correctly with their flame test:
+
+
+
+1.  Barium - red
+
+2.  Lithium - lilac
+
+3.  Sodium – yellow
+
+
+
+ANSWER: 3 ONLY
+
+
+
+BONUS
+
+
+
+7)  CHEMISTRY  Short Answer  Indicate all of the following three statements that are TRUE of minimum-boiling azeotropes:
+
+
+
+1.  Minimum-boiling azeotropes have a negative enthalpy of mixing between liquids
+
+2.  Water and ethanol form a minimum-boiling azeotrope
+
+3.  Minimum-boiling azeotropes show a negative deviation from Raoult’s law 
+
+
+
+ANSWER:  2 ONLY
+
+
+
+
+
+TOSS-UP
+
+
+
+8)  BIOLOGY  Short Answer  Indicate all of the following three statements that are TRUE of monocots:
+
+
+
+1.  Sporadic arrangement of vascular tissue
+
+2.  Flowers in groups of four or five
+
+3.  Pollen with three furrows
+
+
+
+ANSWER:  1 ONLY
+
+
+
+BONUS
+
+
+
+8)  BIOLOGY  Short Answer  Indicate all of the following three statements that are true about the human endocrine system:
+
+
+
+1.  IGF-1 is produced mainly by the pituitary and pancreas
+
+2.  The enzyme aromatase converts testosterone to estradiol
+
+3.  T4 is more potent at the periphery than is T3
+
+
+
+ANSWER:  2 ONLY
+
+
+
+TOSS-UP
+
+
+
+9) PHYSICS  Multiple Choice  Assume that a string is wrapped around a hollow sphere with moment of inertia equal to 2/3 MR^2, and then the sphere is allowed to roll vertically down, unraveling the string like a yo-yo. In terms of g, what is the acceleration of the hollow sphere?
+
+
+
+W)  2g/5
+
+X)  2g/3
+
+Y)  3g/5
+
+Z)  g
+
+
+
+ANSWER:  Y)  3G/5
+
+
+
+BONUS
+
+
+
+9) PHYSICS  Short Answer  Indicate all of the following three changes that would increase the physical separation between intensity peaks on the screen in a double-slit diffraction setup:
+
+
+
+1.  Increasing the wavelength of light
+
+2.  Increasing the distance between the occluding slits and the screen
+
+3.  Increasing the distance between the slits
+
+
+
+ANSWER: 1 AND 2
+
+
+
+
+
+TOSS-UP
+
+
+
+10)  MATH   Multiple Choice  Consider the 2-by-2 matrix that describes rotation of 2-dimensional vectors by exactly 1 radian counterclockwise. Which of the following statements is TRUE of this matrix?
+
+
+
+W)  It is not invertible
+
+X)  It has a real eigenvalue of 1
+
+Y)  It has no real eigenvalues
+
+Z)  It has a determinant of sqrt(2)
+
+
+
+ANSWER:  Y)  IT HAS NO REAL EIGENVALUES
+
+
+
+BONUS
+
+
+
+10) MATH  Short Answer  Suppose that f(x) is a continuous, and differentiable function defined on the open interval (-1,4) such that f(3) = 5 and f’(x) is greater than or equal to -1 for all x in this region. What is the greatest possible value of f(0) ?
+
+
+
+ANSWER: 8
+
+
+
+TOSS-UP
+
+
+
+11)  EARTH AND SPACE SCIENCE  Multiple Choice  Which of the following minerals does not have basal cleavage?
+
+
+
+W)  Fluorite
+
+X)  Graphite
+
+Y)  Biotite
+
+Z)  Lepidolite
+
+
+
+ANSWER:  W) FLUORITE
+
+
+
+BONUS
+
+
+
+11) EARTH AND SPACE SCIENCE  Short Answer  What is the name of structures in space hundreds of light-years across surrounding O and B-type stars, bombarded by stellar winds, and filled with gas at a temperature of 10^6 K?
+
+
+
+ANSWER:  SUPERBUBBLE  (ACCEPT: SUPERSHELL)
+
+
+
+
+
+TOSS-UP
+
+
+
+12)  ENERGY  Short Answer  Rank the following four sources of renewable energy in terms of increasing portion of the US energy budget:
+
+
+
+1.  Solar
+
+2.  Geothermal
+
+3.  Hydroelectric
+
+4.  Biomass
+
+
+
+ANSWER:  2, 1, 4, 3
+
+
+
+BONUS
+
+
+
+12) ENERGY  Short Answer  Rank the following four crude-oil derivatives in order of increasing quantity produced from one barrel of crude oil:
+
+
+
+1.  Jet fuel
+
+2.  Gasoline
+
+3.  Diesel
+
+4.  Heating fuel
+
+
+
+ANSWER:  4, 1, 3, 2
+
+
+
+TOSS-UP
+
+
+
+13)  CHEMISTRY  Multiple Choice  Which of the following reactions is most likely to have zero-order kinetics?
+
+
+
+W)  Radioactive decay, in the limit of a small  number of nuclei
+
+X)  Catalytic hydrogenation of ethylene by platinum, in the limit of high hydrogen pressure
+
+Y)  The harpoon mechanism reaction of potassium and iodine to form potassium iodide 
+
+Z)  The termination step of two methyl radicals combining to form ethane
+
+
+
+ANSWER:  X)  CATALYTIC HYDROGENATION OF ETHYLENE BY PLATINUM, IN THE LIMIT OF HIGH HYDROGEN PRESSURE
+
+
+
+BONUS
+
+
+
+13)  CHEMISTRY  Short Answer  Indicate all of the following three molecules or ions that MO theory predicts to be diamagnetic:
+
+
+
+1.  NO+
+
+2.  O2
+
+3.  F2
+
+
+
+ANSWER:  1 AND 3
+
+
+
+
+
+TOSS-UP
+
+
+
+14) PHYSICS  Short Answer  Indicate all of the following three processes for an ideal gas which have a positive change in entropy:
+
+
+
+1.  Free expansion
+
+2.  Reversible isothermal expansion
+
+3.  Reversible adiabatic expansion
+
+
+
+ANSWER: 1 AND 2
+
+
+
+BONUS
+
+
+
+14) PHYSICS  Short Answer  Suppose that gravitational force decays as 1/r^3 rather than 1/r^2. Indicate all of the following three statements that would still be TRUE: 1. Objects would orbit the sun in conic sections; 2. Angular momentum of the sun-planet system would be conserved; 3. The square of an object’s period would be proportional to the cube of its semi-major axis.
+
+
+
+ANSWER:  2 ONLY
+
+TOSS-UP
+
+
+
+15)  BIOLOGY Multiple Choice Which of the following best explains the mechanism by which testosterone elicits a cellular response?
+
+W) Testosterone binds to a cell surface tyrosine kinase and elicits a signaling cascade
+
+X) Testosterone binds to a GPCR and activates Protein Kinase A
+
+Y) Testosterone diffuses across the plasma membrane and binds to a transcription factor
+
+Z) Testosterone diffuses across the membrane and binds to adenylyl cyclase
+
+
+
+ANSWER: Y) TESTOSTERONE DIFFUSES ACROSS THE PLASMA MEMBRANE AND BINDS TO A TRANSCRIPTION FACTOR
+
+
+
+BONUS
+
+
+
+15)  BIOLOGY  Short Answer  Indicate all of the following three statements that are TRUE concerning microtubules:
+
+
+
+1.  Microtubule growth occurs through nucleation at the plus-end 
+
+2.  Colchicine results in the stabilization of microtubules
+
+3.  Dynein molecular motors transport vesicles from the minus-end to the plus-end
+
+
+
+ANSWER:  1 ONLY 
+
+
+
+
+
+TOSS-UP
+
+
+
+16)  MATH   Multiple Choice  Consider the equation (x+3)^2 + 2(y-2)^2 = (x-3)^2 + y^2. If this equation is plotted on an xy-grid, which of the following best describes the resultant curve?
+
+
+
+W)  A line
+
+X)  A parabola opening towards the negative x-direction
+
+Y)  A parabola opening towards the negative y-direction
+
+Z)  An ellipse
+
+
+
+ANSWER:  X) A PARABOLA OPENING TOWARDS THE NEGATIVE X-DIRECTION
+
+
+
+BONUS
+
+
+
+16) MATH  Short Answer What is the limit as x approaches 0 of the fraction with numerator cos(3x) – 1 and denominator x^2 ?
+
+
+
+ANSWER: -9/2
+
+TOSS-UP
+
+
+
+17)  EARTH AND SPACE SCIENCE  Short Answer  Indicate all of the following three statements that are TRUE of aeolian processes:
+
+
+
+1.  Deflation refers to the sandblasting of rocks by particles in the air
+
+2.  Barchan dunes are most likely to form if the wind is directionally constant
+
+3.  Loess deposits usually originate from glacial outwash plains 
+
+
+
+ANSWER: 2 AND 3
+
+
+
+BONUS
+
+
+
+17) EARTH AND SPACE SCIENCE  Short Answer  Indicate all of the following three statements that are TRUE of Europa:
+
+
+
+1.  Europa’s orbit intersects that of Io
+
+2.  Europa is larger than mercury
+
+3.  Tidal flexing drives ice movement in Europa in a manner similar to tectonism
+
+
+
+ANSWER:  3 ONLY
+
+
+
+
+
+TOSS-UP
+
+
+
+18)  ENERGY  Multiple Choice  DOE scientists at the National Energy Technology Laboratory are pressurizing hydrogen sulfide to pressures of 150 GPa at temperatures of -70 degrees Celsius for which of the following reasons?
+
+
+
+W)  Trying to induce ferromagnetic behavior
+
+X)  Trying to produce degenerate matter
+
+Y)  Investigating a potential avenue for high-temperature superconductivity
+
+Z)  Trying to change the shapes of molecular orbitals
+
+
+
+ANSWER:  Y) INVESTIGATING A POTENTIAL AVENUE FOR HIGH-TEMPERATURE SUPERCONDUCTIVITY
+
+
+
+BONUS
+
+
+
+18) ENERGY  Short Answer DOE researches at LBNL working on ultracold atoms in Bose-Einstein condensates have generated temperatures in atomic gases as low as 30 nanokelvin in the last decade. To the nearest power of ten and in meters, what is the wavelength peak of the blackbody spectrum of these atoms?
+
+
+
+ANSWER:  10^5
+
+
+
+TOSS-UP
+
+
+
+19)  CHEMISTRY  Multiple Choice  Which of the following groups, when substituted on a benzene ring, directs electrophilic substitution meta to its position?
+
+
+
+W)  Methyl
+
+X)  Methoxy
+
+Y)  Bromo
+
+Z)  Cyano
+
+
+
+ANSWER:  Z)  CYANO
+
+
+
+BONUS
+
+
+
+19)  CHEMISTRY  Short Answer  Indicate all of the following three statements that are TRUE of the Diels-Alder reaction:
+
+
+
+Substituting a methyl group for a hydrogen on the dienophile would accelerate the reaction
+
+Groups that are cis on the dienophile are cis are on the product
+
+The product of the reaction is a cyclohexene ring
+
+
+
+ANSWER:  2 AND 3
+
+
+
+
+
+TOSS-UP
+
+
+
+20) PHYSICS  Multiple Choice A dielectric is inserted into a capacitor while the charge on it is kept constant. What happens to the potential difference and the stored energy?
+
+
+
+W) The potential difference decreases and the stored energy increases
+
+X) Both the potential difference and the stored energy increase
+
+Y) The potential difference increases and the stored energy decreases
+
+Z) Both the potential difference and the stored energy decrease
+
+
+
+ANSWER: Z) BOTH THE POTENTIAL DIFFERENCE AND THE STORED ENERGY DECREASE
+
+
+
+BONUS
+
+
+
+20) PHYSICS  Short Answer Indicate all of the following three particle interactions that obey the conservation laws of baryon number, lepton number, and charge:
+
+
+
+1. A neutron spontaneously emits a pair of photons, but is still present after the interaction
+
+2. A proton and antiproton annihilate, resulting in the pair-production of tau and anti-tau leptons
+
+3. A proton decays into a positron, neutron, and electron-neutrino
+
+
+
+ANSWER: ALL OF THEM
+
+
+
+TOSS-UP
+
+
+
+21)  BIOLOGY  Short Answer  Indicate all of the following three barriers to reproduction that are post-zygotic barriers:
+
+
+
+1.  Behavioral isolation
+
+2.  Temporal isolation
+
+3.  Hybrid zygote inviability
+
+
+
+ANSWER:  3 ONLY 
+
+
+
+BONUS
+
+
+
+21)  BIOLOGY Short Answer Indicate, by name or number, all of the following three statements that are true regarding sensory perception: 
+
+
+
+1.  Receptor potentials are “all-or-none”
+
+2.  Sensory units with smaller receptive fields result in greater acuity of perception 
+
+3.  Adaptation results in the frequency of action potentials decreasing as long as the stimulus is constant
+
+
+
+ANSWER: 2 AND 3
+
+
+
+
+
+TOSS-UP
+
+
+
+22)  MATH   Short Answer  For a positive integer n, a divisor is defined as a positive integer that divides n, and always includes both 1 and n. What is the smallest positive integer with exactly 5 positive divisors?
+
+
+
+ANSWER:  16
+
+
+
+BONUS
+
+
+
+22) MATH  Short Answer Consider an equilateral triangle whose inscribed circle has radius 2. What is the area of this triangle?
+
+
+
+ANSWER: 12 SQRT(3)
+
+
+
+ TOSS-UP
+
+
+
+23)  EARTH AND SPACE  Multiple Choice  Which scale refers to the motion of high and low pressure systems in the troposphere?
+
+
+
+W) Microscale
+
+X) Mesoscale
+
+Y) Tropospheric scale
+
+Z) Synoptic scale
+
+
+
+ANSWER: Z)  SYNOPTIC SCALE
+
+
+
+BONUS
+
+
+
+23) EARTH AND SPACE  Multiple Choice  The aborted Reelfoot Rift and associated New Madrid Seismic Zone in the American Southeast is a remnant of what past geologic event?
+
+
+
+W) Basin and Range extension
+
+X) Breakup of Rodinia 
+
+Y) Grenville Orogeny 
+
+Z) Closing of the Western Continental Seaway
+
+
+
+ANSWER: X)  BREAKUP OF RODINIA 
+
+
+
+
+
+TOSS-UP
+
+
+
+24)  ENERGY  Multiple Choice What was the primary reason that the US and European markets adopted E85 as the maximum blend to be used in flexible fuel vehicles?
+
+ 
+
+W) Higher ethanol blends are too expensive
+
+X) Higher ethanol blends are unable to ignite in cold weather
+
+Y) Higher ethanol blends cannot be safely stored
+
+Z) Higher ethanol blends release more CO2 into the atmosphere through deforestation than they conserve
+
+
+
+ANSWER: X) HIGHER ETHANOL BLENDS ARE UNABLE TO IGNITE IN COLD WEATHER
+
+
+
+BONUS
+
+
+
+24) ENERGY  Short Answer Indicate all of the following three statements concerning DOE-funded experiments are studying neutrino flavor oscillation:
+
+
+
+1.  The vast majority of neutrinos passing through the Earth are solar in origin
+
+2.  The number of electron neutrinos detected at the Earth is equal to the number produced by the Sun
+
+3.  The sun produces an equal number of electron, muon, and tau neutrinos
+
+
+
+ANSWER:  1 ONLY
+
+
+
+TOSS-UP
+
+
+
+25)  CHEMISTRY  Short Answer  Indicate all of the following three phosphate salts that are soluble:
+
+
+
+Aluminum phosphate
+
+Iron(III) phosphate
+
+Calcium phosphate
+
+
+
+ANSWER:  NONE OF THEM
+
+
+
+BONUS
+
+
+
+25)  CHEMISTRY  Short Answer  Consider a reaction which has a change in internal energy equal to -70 kJ, and at a temperature of 27 degrees Celsius has a change in entropy of -100 J/K. What is the change in Helmholtz free energy of this reaction, to the nearest kJ ?
+
+
+
+ANSWER:  -40
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,884 @@
+Easy-Medium Round 2017
+
+
+
+TOSS-UP
+
+
+
+1)  BIOLOGY  Multiple Choice  Which of the following statements concerning cranial nerves is NOT TRUE?
+
+
+
+W)  CN VIII is responsible for transmitting information originating at receptors in the ear
+
+X)  CN XII innervates skeletal muscles of the neck
+
+Y)  CN IX innervates the parotid salivary gland
+
+Z)  CN V has three main branches
+
+
+
+ANSWER:  X) CN XII INNERVATES SKELETAL MUSCLES OF THE NECK
+
+
+
+BONUS
+
+
+
+1)  BIOLOGY  Short Answer  Indicate all of the following three statements about muscles and other connective tissue that are TRUE:
+
+
+
+1.  Golgi tendon organs are activated under conditions of higher tension
+
+2.  Thick filaments are composed almost entirely of myosin
+
+3.  ATP is required for the bonding of myosin to actin
+
+
+
+ANSWER:  1 AND 2
+
+
+
+
+
+TOSS-UP
+
+
+
+2)  CHEMISTRY Short Answer Indicate all of the following three organic compounds that are miscible with water at room temperature:
+
+
+
+1.  Dipropyl ether
+
+2.  Ethanol
+
+3.  Butane
+
+
+
+ANSWER: 2 ONLY
+
+
+
+BONUS
+
+
+
+2) CHEMISTRY  Short Answer  Indicate all of the following three scenarios that result in the formation of a coordination complex: 
+
+
+
+1.  The addition of excess sodium hydroxide to silver(I) ions 
+
+2.  The addition of excess sodium thiosulfate to silver(I) ions
+
+3.  The addition of excess ammonia to cobalt(III) ions
+
+
+
+ANSWER: 2 AND 3 
+
+
+
+
+
+TOSS-UP
+
+
+
+3)  PHYSICS  Short Answer  Suppose that a projectile is thrown with an angle of 60 degrees to the horizontal, with a velocity equal to 10 meters per second. Then, what is the amount of time it takes for the particle to reach the top of its trajectory, to the nearest tenth of a second?
+
+
+
+ANSWER: 0.9
+
+
+
+BONUS
+
+
+
+3)  PHYSICS  Short Answer  Consider a projectile that is thrown off a 200 meter tall building with a horizontal velocity of 5 meters per second. What is the horizontal range, to the nearest meter, of this projectile?
+
+
+
+ANSWER: 32
+
+
+
+
+
+TOSS-UP
+
+
+
+4)  MATH   Short Answer  Suppose that a pyramid has 39 faces. How many edges does it have?
+
+
+
+ANSWER:  76
+
+
+
+BONUS
+
+
+
+4) MATH  Short Answer  A ladder that is 5 meters long is leaning against a wall vertically at time t = 0 seconds. If the bottom end of the ladder is moved away from the wall horizontally at a constant rate of 2 meters per second, what is the rate at which the top end is sliding down the wall in meters per second, at time t = 2 seconds?
+
+
+
+ANSWER:  8/3
+
+
+
+TOSS-UP
+
+
+
+5)  EARTH AND SPACE SCIENCE  Short Answer  Jupiter’s Galilean moons are thought to have all formed at the same time as Jupiter from a sub-nebula surrounding the planet. Indicate all of the following three statements concerning the Galilean moons that are TRUE: 
+
+
+
+1.  They all orbit in Jupiter’s equatorial plane
+
+2.  Their density decreases with increasing semi-major axis
+
+3.  They all have the same composition
+
+
+
+ANSWER:  1 AND 2
+
+
+
+BONUS
+
+
+
+5) EARTH AND SPACE SCIENCE  Short Answer  Assuming that the Hubble constant is 70 kilometers per second per megaparsec, what is the recessional velocity of a galaxy at the cosmic horizon of 15 gigaparsecs, divided by the speed of light, given to one decimal place?
+
+
+
+ANSWER:  3.5
+
+
+
+
+
+TOSS-UP
+
+
+
+6)  ENERGY  Short Answer  Scientists at the DOE’s Fermilab are continuing to analyze data from the Tevatron to look for evidence of new physics at or beyond the electroweak unification scale. The rest mass-energy of what particle defines this energy scale?
+
+
+
+ANSWER:  HIGGS BOSON  (ACCEPT: HIGGS)
+
+
+
+BONUS
+
+
+
+6) ENERGY  Short Answer  DOE researchers working at the Joint Genome Institute are sequencing cancer genomics looking for new drivers of cancer. In particular, they are looking for somatic genes coding for signaling proteins that are turned constitutively on in the cancer. Indicate all of the following three genes that would be such a driver:
+
+
+
+1.  p53
+
+2.  KRAS
+
+3.  APC
+
+
+
+ANSWER: 2 ONLY  (2 IS AN ONCOGENE, 1 AND 3 ARE TUMOR SUPPRESSORS)
+
+
+
+TOSS-UP
+
+
+
+7)  CHEMISTRY Multiple Choice Mannose is formed by inverting the stereochemistry on carbon-2 of glucose, but retaining stereochemistry on other chiral carbon atoms. Which of the following relationships best describes mannose and glucose? 
+
+
+
+W) Enantiomers
+
+X) Structural isomers
+
+Y) Diastereomers
+
+Z) Conformational isomers
+
+
+
+ANSWER: Y) DIASTEREOMERS
+
+
+
+BONUS
+
+
+
+7)  CHEMISTRY  Short Answer  Indicate all of the following three statements that characterize SN1 reactions: 
+
+
+
+1.  They have single-step mechanisms
+
+2.  Their rate is strongly dependent on nucleophile strength
+
+3.  They are faster in polar, protic solvents like water or ethanol
+
+ 
+
+ANSWER: 3 ONLY
+
+
+
+
+
+TOSS-UP
+
+
+
+8)  BIOLOGY  Short Answer  Indicate all of the following three hormones whose action would increase the concentration of glucose in the blood:
+
+
+
+1.  Epinephrine
+
+2.  Glucagon
+
+3.  Insulin
+
+
+
+ANSWER: 1 AND 2
+
+
+
+BONUS
+
+
+
+8)  BIOLOGY  Short Answer  Indicate all of the following three changes that increase the affinity of hemoglobin for oxygen:
+
+
+
+1.  Moving it from central blood to peripheral blood
+
+2.  Moving it from a buffer at pH 7.3 to a buffer at pH 7.1
+
+3.  Adding 2,3-bisphosphoglycerate
+
+
+
+ANSWER:  NONE OF THEM
+
+TOSS-UP
+
+
+
+9)  PHYSICS  Multiple Choice  Which of the following best describes the B-field magnitude in the following magnetostatic configuration: two infinite concentric solenoids with different radii, the same number of windings per unit length and the same current running in opposite directions?  
+
+
+
+W) Zero magnetic field inside the smaller solenoid, but a magnetic field exists between the solenoids
+
+X) Zero magnetic field between the solenoids, but a magnetic field exists inside the smaller solenoid
+
+Y) Small magnetic field inside the smaller solenoid, and larger field inside between the solenoids
+
+Z) Small magnetic field between the solenoids, and larger field inside the smaller solenoid
+
+
+
+ANSWER: W) ZERO MAGNETIC FIELD INSIDE THE SMALLER SOLENOID, BUT A MAGNETIC FIELD EXISTS BETWEEN THE SOLENOIDS
+
+
+
+BONUS
+
+
+
+9)  PHYSICS  Short Answer  Short Answer  Rank the following four objects with the same mass and radii in terms of increasing amount of time taken to roll down an incline: 
+
+
+
+1.  Solid ball
+
+2.  Hollow sphere
+
+3.  Solid disk
+
+4.  Solid hoop
+
+
+
+ANSWER: 1, 3, 2, 4
+
+
+
+
+
+TOSS-UP
+
+
+
+10)  MATH   Short Answer  What is the sum of the numbers of faces, vertices, and edges of an 3d polytope that has 20 faces and 20 vertices?
+
+
+
+ANSWER:  78
+
+
+
+BONUS
+
+
+
+10) MATH  Short Answer  The region bounded by the curves y = x and y = x2 in the first quadrant of the xy-plane is rotated about the y-axis. What is the volume of the resulting solid of revolution, in terms of π?
+
+
+
+ANSWER: π/6
+
+TOSS-UP
+
+
+
+11)  EARTH AND SPACE SCIENCE  Multiple Choice  Which of the following volcanoes was created by the thinning of continental crust through rifting?
+
+
+
+W)  Kilauea, Hawaii
+
+X)  Colima, Mexico 
+
+Y)  Hekla, Iceland
+
+Z)  Kilimanjaro, Tanzania
+
+
+
+ANSWER:  Z) KILIMANJARO, TANZANIA
+
+
+
+BONUS
+
+
+
+11)  EARTH AND SPACE SCIENCE  Short Answer  Indicate all of the following three earthquakes that occurred on a strike-slip fault:
+
+
+
+1.  2010 Chile earthquake
+
+2.  2004 Sumatra earthquake
+
+3.  2010 Haiti earthquake
+
+
+
+ANSWER:  3 ONLY
+
+
+
+
+
+TOSS-UP
+
+
+
+12)  ENERGY  Short Answer  Indicate all of the following three statements concerning solar thermal energy that are TRUE:
+
+
+
+1.  Solar thermal energy currently has a higher cost per kWh than PV
+
+2.  Solar thermal is fundamentally limited by the Shockley-Quiesser efficiency limit
+
+3.  Solar thermal would be a more effective base load power supply than geothermal
+
+
+
+ANSWER:  1 ONLY
+
+
+
+BONUS
+
+
+
+12)  ENERGY  Short Answer  Consider a wind turbine that is operating at the Betz-efficiency. If the incoming wind velocity is 10 meters per second, the blade size is 100 square meters, and the density of air can be approximated as 1 gram per liter, what is the power output, to the nearest kW?
+
+
+
+ANSWER:  30
+
+
+
+TOSS-UP
+
+
+
+13)  CHEMISTRY Multiple Choice Which of the following statements best describes the pattern of reactivity of carboxylic acid derivatives, such as acyl chlorides, to nucleophiles?
+
+
+
+W) The nucleophile attacks the carbonyl, displacing the leaving group in a concerted mechanism
+
+X) The carbonyl oxygen pushes down first to form a positive acylium ion, which captures the nucleophile
+
+Y) The nucleophile attacks the carbonyl carbon first to form a tetrahedral intermediate, which releases the leaving group
+
+Z) The nucleophile attacks the carbonyl oxygen first to form a carbanion intermediate, which releases the leaving group
+
+
+
+ANSWER: Y) THE NUCLEOPHILE ATTACKS THE CARBONYL CARBON FIRST TO FORM A TETRAHEDRAL INTERMEDIATE, WHICH RELEASES THE LEAVING GROUP
+
+
+
+BONUS
+
+
+
+13)  CHEMISTRY Short Answer Rank the following three carboxylic acid derivatives from the least resonance stabilized to the most resonance stabilized: 
+
+
+
+1.  Esters
+
+2.  Amides
+
+3.  Acyl chlorides
+
+
+
+ANSWER: 3, 1, 2
+
+
+
+
+
+TOSS-UP
+
+
+
+14)  PHYSICS  Short Answer What is the equivalent capacitance, to the nearest microfarad, of a 3 microfarad capacitor in series with a parallel configuration of three 2 microfarad capacitors?
+
+
+
+ANSWER: 2
+
+
+
+BONUS
+
+
+
+14)  PHYSICS  Short Answer  Indicate all of the following three statements that are TRUE of the beta decay of a neutron: 
+
+
+
+1.  A W- particle mediates the decay 
+
+2.  A neutrino is formed
+
+3.  Lepton number is NOT conserved
+
+
+
+ANSWER: 1 ONLY
+
+
+
+
+
+TOSS-UP
+
+
+
+15)  BIOLOGY  Multiple Choice  Which of the following sugars does NOT contain six carbon atoms?
+
+
+
+W)  Fructose
+
+X)  Xylose
+
+Y)  Talose
+
+Z)  Galactose  
+
+
+
+ANSWER:  X)  XYLOSE 
+
+
+
+BONUS
+
+
+
+15)  BIOLOGY  Short Answer  Indicate all of the following four events that would be likely to occur if the vagus nerve was stimulated:
+
+
+
+1.  Heart rate increases
+
+2.  Heart contractility increases
+
+3.  Activity of smooth muscle in the stomach wall increases
+
+4.  Average alveolar cross-sectional area increases
+
+
+
+ANSWER:  3 ONLY
+
+
+
+
+
+TOSS-UP
+
+
+
+16)  MATH   Multiple Choice  Consider the piecewise function f(x) = a + bx for x less than or equal to 3, and equal to x2 – 1 for x greater than 3. What assignment of a and b makes f(x) both continuous and differentiable everywhere? 
+
+
+
+W)  a = 3 and b = 3
+
+X)  a = 3 and b = 6
+
+Y)  a = -10 and b = 3
+
+Z)  a = -10 and b = 6
+
+
+
+ANSWER:  Z) A = -10 AND B = 6
+
+
+
+BONUS
+
+
+
+16)  MATH  Short Answer What is the minimum distance between the plane 2x + y + 3z = 3 and the origin?
+
+
+
+ANSWER:  3SQRT(14)/14
+
+TOSS-UP
+
+
+
+17)  EARTH AND SPACE SCIENCE  Short Answer  What is the term for the distance from a planetesimal at which the orbital period around the planetesimal is equal to the orbital period of the planetesimal around the Sun? 
+
+
+
+ANSWER: HILL RADIUS
+
+
+
+BONUS
+
+
+
+17)  EARTH AND SPACE SCIENCE  Short Answer  Indicate all of the following three quantities relevant to a star that an astronomer would need to know to calculate the average temperature of the star’s surface:
+
+ 
+
+1.  Luminosity
+
+2.  Radius
+
+3.  Mass
+
+
+
+ANSWER: 1 AND 2
+
+
+
+
+
+TOSS-UP
+
+
+
+18)  ENERGY  Short Answer  DOE researchers, collaborating with leading European colleagues at CERN, are working to detect and measure the properties of quark gluon plasma using data from what LHC experiment?
+
+
+
+ANSWER: ALICE  (ACCEPT: A LARGE ION COLLIDER EXPERIMENT)
+
+
+
+BONUS
+
+
+
+18) ENERGY  Short Answer  What technique, which is currently being pioneered at LBNL by leading DOE crystallographers, allows us to better understand the conformational analysis of proteins by being able to visualize a larger array of proteins than X-ray crystallography, observe varied protein conformations, and with almost equal resolution?
+
+
+
+ANSWER:  CRYO-ELECTRON MICROSCOPY  (ACCEPT: CRYO-EM)
+
+
+
+
+
+TOSS-UP
+
+
+
+19)  CHEMISTRY  Multiple Choice  Which of the following statements concerning alcohols is NOT TRUE?
+
+
+
+W)  They can be formed by oxymercuration-demercuration 
+
+X)   They have pKas usually between 16 and 20
+
+Y)   Primary alkoxides are better nucleophiles than tertiary alkoxides
+
+Z)  The dehydration of an alcohol using sulfuric acid proceeds by E2
+
+
+
+ANSWER:  Z) THE DEHYDRATION OF AN ALCOHOL USING SULFURIC ACID PROCEEDS BY E2
+
+
+
+BONUS
+
+
+
+19)  CHEMISTRY  Short Answer A student preforms combustion analysis on a compound X containing carbon, hydrogen, and oxygen to determine its molecular formula. Given the molar mass is 76, if he combusts 1 mole of X in excess oxygen and observes 2 moles of CO2 gas and 2 moles of H2O gas as products, what is the molecular formula?
+
+ANSWER: C2H4O3 
+
+
+
+
+
+TOSS-UP
+
+
+
+20)  PHYSICS  Multiple Choice  Consider an ideal gas undergoing an adiabatic expansion starting at 300 K and ending at 200 K. If the initial volume of the gas is 6 liters, which of the following statements is TRUE?
+
+
+
+W) Final volume is equal to 6 liters
+
+X)  Final volume is between 6 and 9 liters 
+
+Y)  Final volume is equal to 9 liters
+
+Z)  Final volume is greater than 9 liters
+
+
+
+ANSWER: X) FINAL VOLUME IS BETWEEN 6 AND 9 LITERS
+
+
+
+
+
+BONUS
+
+
+
+20)  PHYSICS  Short Answer A wire has a linear mass density of 0.250 kilograms per meter. What tension, to the nearest Newton, would you have to apply to observe a wave speed of 12.0 meters per second in this wire?
+
+
+
+ANSWER: 36
+
+TOSS-UP
+
+
+
+21)  BIOLOGY  Short Answer  Indicate all of the following three statements that are TRUE of the adaptive immune response:
+
+
+
+1.  DCs present antigens on MHC class I to CD8+ T-cells
+
+2.  Toll-like receptors are present on the surface of macrophages
+
+3.  Macrophages can present using MHC class II
+
+
+
+ANSWER:  ALL OF THEM
+
+
+
+BONUS
+
+
+
+21)  BIOLOGY  Short Answer  What cytokine, which is the principal signal required for the clonal expansion of T-cells, is usually an autocrine signal that is secreted by helper T cells themselves upon activation by macrophages or DCs?
+
+
+
+ANSWER:  INTERLEUKIN-2 (ACCEPT: IL-2)
+
+
+
+
+
+TOSS-UP
+
+
+
+22)  MATH   Multiple Choice  Suppose f and g are both functions that map real numbers to real numbers, and the function g(f(x)) is injective. Which of the following statements is necessarily TRUE?
+
+
+
+W)  f is injective
+
+X)  f is surjective
+
+Y)  g is injective
+
+Z)  g is surjective
+
+
+
+ANSWER:  W) F IS INJECTIVE
+
+
+
+BONUS
+
+
+
+22)  MATH  Short Answer  What is the determinant of the matrix with first row 3, 5, 3; second row 1, 7, 3; and third row 1, 2, 0 ?
+
+
+
+ANSWER:  -18
+
+
+
+ TOSS-UP
+
+
+
+23)  EARTH AND SPACE SCIENCE  Multiple Choice  Why is it impossible for white dwarfs to have a mass greater than about 1.44 solar masses?
+
+
+
+W)  Above 1.4 solar masses, pair-pair production leads to the combination of protons and electrons 
+
+X)  Above 1.4 solar masses temperatures become so hot that the outward pressure of gas slowly blows the star apart 
+
+Y)  White dwarfs cannot achieve hot enough temperatures for electron degeneracy pressure to counteract gravitational contraction above 1.44 solar masses 
+
+Z)  Relativistic effects prevent electron degeneracy pressure from counteracting arbitrarily strong gravitational forces 
+
+
+
+ANSWER: Z)  RELATIVISTIC EFFECTS PREVENT ELECTRON DEGENERACY PRESSURES FROM COUNTERACTING ARBITRARILY STRONG GRAVITATIONAL FORCES
+
+
+
+BONUS
+
+
+
+23)  EARTH AND SPACE SCIENCE  Short Answer  What type of ultramafic rock is believed to be no longer formed on Earth because the mantle is no longer hot enough?
+
+
+
+ANSWER:  KOMATIITE
+
+
+
+
+
+TOSS-UP
+
+
+
+24)  ENERGY  Short Answer  What sector of natural gas production is projected to have the largest increase over the next decades?
+
+
+
+ANSWER: SHALE GAS
+
+
+
+BONUS
+
+
+
+24)  ENERGY  Short Answer What flexible, cost effective alternative to large nuclear power plants are defined by the IAEA as those plants with an electricity output of less than 300 Megawatts?
+
+
+
+ANSWER: SMALL MODULAR REACTORS
+
+
+
+TOSS-UP
+
+
+
+25)  CHEMISTRY  Short Answer  Rank the following three molecules from the shortest bond length to the longest bond length, as predicted by MO theory:
+
+
+
+B2+
+
+B2
+
+B2-
+
+
+
+ANSWER:  3, 2, 1
+
+
+
+BONUS
+
+
+
+25)  CHEMISTRY  Short Answer  What type of spectroscopy, based on inelastic scattering where photons are shifted in frequency upon atomic collision, excites normal modes that transform with the same symmetry as quadratic forms and are hence accompanied by a change in polarizability?
+
+
+
+ANSWER: RAMAN SPECTROSCOPY
+
+
+
+
+
+
+
+
+
+
+

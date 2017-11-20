@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "async": "^2.6.0",
+    "deasync": "^0.1.10",
+    "mammoth": "^1.4.3",
+    "pdf2json": "^1.1.7",
+    "request": "^2.83.0",
+    "sync": "^0.2.5"
+  },
+  "scripts": {
+    "start": "node upload-from-folder.js"
+  }
+}

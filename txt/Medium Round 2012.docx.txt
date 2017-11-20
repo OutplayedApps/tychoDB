@@ -1,0 +1,852 @@
+Medium Round 2012
+
+
+
+TOSS-UP
+
+
+
+1)  BIOLOGY  Short Answer  Which specific tissue of the brain is responsible for producing cerebrospinal fluid?
+
+
+
+ANSWER:  CHOROID PLEXUS
+
+
+
+BONUS
+
+
+
+2)  BIOLOGY  Multiple Choice  Which of the following techniques would be most useful for determining the binding constant of a protein to its ligand?
+
+
+
+W)  performing NMR on the protein-ligand complex
+
+X)  performing SPR with the protein deposited on a gold surface
+
+Y)  performing X-ray crystallography on the protein and comparing the structure to the structure of the ligand
+
+Z)  performing UV/vis spectroscopy on a solution of the ligand and the protein
+
+
+
+ANSWER:  X) performing SPR with the protein deposited on a gold surface
+
+
+
+
+
+TOSS-UP
+
+
+
+2)  CHEMISTRY  Multiple Choice  Which of the following best describes the addition of a molecule of bromine to the carbon-carbon double bond of an alkene?
+
+
+
+W)  Both bromine atoms add to the same carbon atom
+
+X)  The bromine atoms add in a syn-configuration to adjacent carbon atoms
+
+Y) The bromine atoms add in an anti-configuration to adjacent carbon atoms
+
+Z)  Only one bromine atom adds to the carbon skeleton
+
+
+
+ANSWER:  Y) THE BROMINE ATOMS ADD IN AN ANTI-CONFIGURATION TO ADJACENT CARBON ATOMS
+
+
+
+BONUS
+
+
+
+2) CHEMISTRY  Short Answer  Rank the following alkyl chlorides in order of increasing reactivity in an SN1 reaction, from the least reactive to the most:
+
+
+
+Isopropyl Chloride
+
+Methyl Chloride
+
+tert-Butyl Chloride
+
+
+
+ANSWER:  2. METHYL CHLORIDE; 1. ISOPROPYL CHLORIDE; 3. tert-BUTYL CHLORIDE (ACCEPT: 2, 1, 3)
+
+
+
+TOSS-UP
+
+
+
+3) PHYSICS  Short Answer  The midday color of the sky and its reddish hues at sunset are caused by Rayleigh scattering of sunlight in the atmosphere. Assume that the rate of scattering of light is C. If the wavelength of light is doubled, what is the new rate?
+
+
+
+ANSWER:  C/16
+
+
+
+BONUS
+
+
+
+3) PHYSICS  Short Answer  Suppose that the photon emitted by a particle in a box transitioning from the n=3 to n=2 quantum level has frequency f. In terms of f, what is the frequency of a photon transitioning from the n=2 to n=1 quantum level in this box?
+
+
+
+ANSWER: 3f/5
+
+
+
+
+
+TOSS-UP
+
+
+
+4)  MATH   Short Answer  For a curve parametrized by the equations x(t) = 2cos(t) + 1 and y(t) = sin(t), what is the value of t on the closed interval [0 , π] that gives a horizontal tangent?
+
+
+
+ANSWER:  T= π/2 (READ: T EQUALS PI OVER 2)
+
+
+
+BONUS
+
+
+
+4) MATH  Multiple Choice  Which of the following is true of ANOVA methods?
+
+
+
+W) The random effect ANOVA model is most useful for analyzing data from natural populations
+
+X)  ANOVA assumes that cases are not independent
+
+Y) ANOVAs are less likely to produce a type I error than t-tests
+
+Z)  ANOVAs are not useful for randomization-based analysis
+
+
+
+ANSWER:  Y)  ANOVAs ARE LESS LIKELY TO PRODUCE A TYPE I ERROR THAN T-TESTS
+
+
+
+TOSS-UP
+
+
+
+5)  EARTH AND SPACE SCIENCE  Short Answer  Indicate all of the following three statements concerning streams and rivers that are TRUE:
+
+
+
+1.  A stream that existed before the present topography was created is called an antecedent stream.
+
+2.  Foreset beds are generally composed of sand and silt.
+
+3.  The east coast of North America generally lacks deltas because of weak waves and tides.
+
+
+
+ANSWER:  1 AND 2
+
+
+
+BONUS
+
+
+
+5) EARTH AND SPACE SCIENCE  Short Answer  Which type of optical aberration involves light from a distant point source not being focused on the same point due to the increased refraction of light rays when they strike a mirror near its edge?
+
+
+
+ANSWER:  SPHERICAL ABERRATION
+
+
+
+
+
+TOSS-UP
+
+
+
+6)  ENERGY  Short Answer  Indicate all of the following three statements concerning the hydrogen economy that are TRUE:
+
+
+
+1.  Some noble metals, like palladium, are being investigated in potential storage mechanisms for Hydrogen.
+
+2.  Some byproducts of hydrogen combustion must be contained and released in special deposit areas.
+
+3.  Currently, hydrogen is largely produced by the heterolysis of ammonia from the Haber process.
+
+
+
+ANSWER:  1 ONLY
+
+
+
+BONUS
+
+
+
+6) ENERGY  Short Answer  Indicate all of the following three statements concerning solar energy that are TRUE:
+
+
+
+1.  Solar insolation averages about 140 watts per square meter on the Earth
+
+2.  The current theoretical efficiency for a silicon PV cell is about 30-35%
+
+3.  Solar thermal energy is generally less efficient than PV at using photons to drive a heat engine
+
+
+
+ANSWER:  2 ONLY
+
+
+
+TOSS-UP
+
+
+
+7)  CHEMISTRY  Short Answer For both the cation and anion respectively, what is the coordination number of the type of lattice that is most stable when cations and anions are of roughly equal size, as typified by cesium chloride?
+
+
+
+ANSWER: 8 AND 8
+
+
+
+BONUS
+
+
+
+7)  CHEMISTRY  Short Answer  Indicate all of the following three statements concerning coordination compounds that are TRUE:
+
+
+
+1.  Tetrahedral splitting is greater than octahedral splitting for the same ligands and metal
+
+2.  Strong-field ligands produce complexes with large splitting
+
+3.  Square planar and octahedral coordination complexes cannot be chiral
+
+
+
+ANSWER:  2 ONLY
+
+
+
+
+
+TOSS-UP
+
+
+
+8)  BIOLOGY  Short Answer  Indicate all of the following four changes that would increase hemoglobin’s affinity for oxygen gas:
+
+
+
+1.  Increasing blood pH
+
+2.  Increasing 2,3-bisphosphoglycerate’s intracellular levels
+
+3.  Increasing serum concentration of CO2
+
+4.  Increasing temperature
+
+
+
+ANSWER:  1 AND 4 
+
+
+
+BONUS
+
+
+
+8)  BIOLOGY  Short Answer  Indicate all of the following three statements that are TRUE of Bicoid and the morphogen gradient hypothesis:
+
+
+
+1.  Bicoid increases in concentration anterior to posterior
+
+2.  Bicoid undergoes active transport from cell to cell
+
+3.  Bicoid mRNA is transferred to egg cells via cytoplasmic bridges
+
+
+
+ANSWER:  3 ONLY 
+
+
+
+TOSS-UP
+
+
+
+9) PHYSICS  Short Answer  Indicate all of the following four particles which have half-integer spin:
+
+
+
+Top quark
+
+π0 meson
+
+W+ boson
+
+Muon
+
+
+
+ANSWER:  1 AND 4
+
+
+
+BONUS
+
+
+
+9) PHYSICS  Short Answer  Consider an electrostatic configuration where the electric potential V = xyz (READ: V equals x times y times z). Rank the following three points in terms of increasing value for the electric field in the y-hat direction: 1. The origin; 2. The point (1,2,-3); 3. The point (1,-2,3).
+
+
+
+ANSWER: 3, 1, 2
+
+
+
+
+
+TOSS-UP
+
+
+
+10)  MATH   Multiple Choice  Consider a line that passes through the point (5,5) and has a positive x-intercept and a negative y-intercept. Which of the following points could also be on this line?
+
+
+
+W) (5,7)
+
+X)  (1,-1)
+
+Y) (7,6)
+
+Z)  (6,7)
+
+
+
+ANSWER:  Z) (6,7)
+
+
+
+BONUS
+
+
+
+10) MATH  Short Answer A right circular cone with a base radius of 4 is inscribed in a sphere with a radius of 5. What is the ratio of the volume of the cone to that of the sphere?
+
+
+
+ANSWER: 32/125
+
+
+
+TOSS-UP
+
+
+
+11)  EARTH AND SPACE SCIENCE  Multiple Choice  Which of the following is TRUE of type 1A supernovas?
+
+
+
+W)  The primary peak in their light curves is due to the formation and decay of nickel
+
+X)  Most type 1A supernovas result in the formation of white dwarves and neutron stars
+
+Y)  Type 1A supernovas occur almost always in elliptical galaxies
+
+Z)  Type 1A supernovas lack silicon spectral lines
+
+
+
+ANSWER:  W) THE PRIMARY PEAK IN THEIR LIGHT CURVES IS DUE TO THE FORMATION AND DECAY OF NICKEL
+
+
+
+BONUS
+
+
+
+11) EARTH AND SPACE SCIENCE  Short Answer  Indicate all of the following four stars that are in the constellation Orion:
+
+
+
+1. Bellatrix
+
+2. Rigel
+
+3. Capella
+
+4. Betelgeuse
+
+
+
+ANSWER:  1, 2, AND 4
+
+
+
+
+
+TOSS-UP
+
+
+
+12)  ENERGY  Short Answer  Over the past decade, oil extraction at the Canadian oil sands has exceeded the world average amount of carbon released into the atmosphere per barrel of oil extracted by 20%. The release of what gas is responsible for this discrepancy?
+
+
+
+ANSWER:  METHANE
+
+
+
+BONUS
+
+
+
+12) ENERGY  Short Answer  DOE researchers at Fermilab’s Tevatron accelerate and then collide what two particles?
+
+
+
+ANSWER:  PROTONS AND ANTIPROTONS
+
+
+
+
+
+TOSS-UP
+
+
+
+13)  CHEMISTRY  Multiple Choice  Which of the following correctly gives the molecular orbital description for the molecule C2?
+
+
+
+W)  C2 is paramagnetic and has unpaired electrons filling valence antibonding π* orbitals
+
+X)  C2 is diamagnetic and has only paired electrons filling valence antibonding π* orbitals
+
+Y)  C2 is paramagnetic and has unpaired electrons filling valence bonding orbitals
+
+Z)  C2 is diamagnetic and has only paired electrons filling valence bonding orbitals
+
+
+
+ANSWER:  Z) C2 is diamagnetic and has only paired electrons filling valence bonding orbitals
+
+
+
+BONUS
+
+
+
+13)  CHEMISTRY  Short Answer  What is the VSEPR-predicted hybridization of the central atom and molecular geometry of the molecule BrF3?
+
+
+
+ANSWER:  HYBRIDIZATION IS dsp3 (ACCEPT: sp3d) AND MOLECULAR GEOMETRY IS T-SHAPED
+
+
+
+
+
+TOSS-UP
+
+
+
+14) PHYSICS  Short Answer  Unpolarized light is passed through a vertical polarizer, and then passed again through a polarizer titled 30 degrees from the vertical. Assuming both polarizers are ideal, what fraction of the initial intensity passes through?
+
+
+
+ANSWER: 3/8
+
+
+
+BONUS
+
+
+
+14) PHYSICS  Short Answer  At 50 degrees Celsius, water has a surface tension of approximately 10 millinewtons per meter. When the flow rate through a pipe is kept sufficiently low and turbulent, a stream of water is observed to separate into drops. To the nearest millimeter, what is the minimum diameter of these drops?
+
+
+
+ANSWER: 1
+
+
+
+TOSS-UP
+
+
+
+15)  BIOLOGY  Short Answer  Indicate all of the following three proteases that are serine proteases:
+
+
+
+1.  Pepsin
+
+2.  Trypsin
+
+3.  Chymotrypsin
+
+
+
+ANSWER:  2 AND 3 
+
+
+
+BONUS
+
+
+
+15)  BIOLOGY  Short Answer  Both ocean sunfish and pufferfish contain which powerful neurotoxin which acts as a sodium channel blocker?
+
+
+
+ANSWER:  TETRODOTOXIN
+
+
+
+
+
+TOSS-UP
+
+
+
+16)  MATH   Short Answer  What is the limit as x approaches 1 of the fraction with numerator (x-1) and denominator (x6-1) ?
+
+
+
+ANSWER:  1/6
+
+
+
+BONUS
+
+
+
+16) MATH  Short Answer For the function f(x) = x3 – 6x2 + 9x, find all the critical values for x and classify them as either maxima, minima, or neither:
+
+
+
+ANSWER: X=1 IS A MAXIMUM, X=3 IS A MINIMUM 
+
+TOSS-UP
+
+
+
+17)  EARTH AND SPACE SCIENCE  Short Answer  What type of unconformity results when in which the upper beds overlie metamorphic or igneous rock?
+
+
+
+ANSWER:  NONCONFORMITY
+
+
+
+BONUS
+
+
+
+17) EARTH AND SPACE SCIENCE  Short Answer  Radiation from a hypothetical blue dwarf is peaked at a wavelength of 250 nanometers. A spaceship travelling away from the star at 0.8c observes a spectrum peaked at what wavelength, in nanometers?
+
+
+
+ANSWER: 750 
+
+
+
+
+
+TOSS-UP
+
+
+
+18)  ENERGY  Multiple Choice  Which of the following statements is TRUE regarding the Haber process?
+
+
+
+W)  The catalyst used is a mixture of platinum and rhodium
+
+X)  The reaction is run at a low temperature of 25 C to increase the equilibrium constant
+
+Y)  Ammonia produced is used to produce nitric acid in the Ostwald process
+
+Z)  Most of the nitrogen used is isolated from soil
+
+
+
+ANSWER: Y) AMMONIA PRODUCED IS USED TO PRODUCE NITRIC ACID IN THE OSTWALD PROCESS
+
+
+
+BONUS
+
+
+
+18) ENERGY  Short Answer  Recently, DOE researchers at the Advanced Light Source studied the magnetic nanocrystal chains produced by some genera of bacteria using X-ray magnetic circular dichroism. What is the name for bacteria that produce and use these nanocrystals to find their optimum environments?
+
+
+
+ANSWER:  MAGNETOTACTIC BACTERIA (ACCEPT: MTB)
+
+
+
+
+
+TOSS-UP
+
+
+
+19)  CHEMISTRY  Multiple Choice  Which of the following statements about reaction kinetics is false, given that C represents the concentration of a reactant A?
+
+
+
+W)  Zero order reactions have a linear relationship between C and time
+
+X)  First order reactions have a linear relationship between the logarithm of C and time
+
+Y) Second order reactions have a linear relationship between the reciprocal of C and time
+
+Z)  Third order reactions have a linear relationship between the square root of C squared and time
+
+
+
+ANSWER:  Z) THIRD order reactions have a linear relationship between the square root of C and time
+
+
+
+BONUS
+
+
+
+19)  CHEMISTRY  Short Answer  Indicate all of the following three thermodynamic quantities which would have a positive value in the vaporization of liquid water into steam at 95 ˚C.
+
+
+
+∆H
+
+∆S
+
+∆G
+
+
+
+ANSWER:  1, 2, AND 3 (ACCEPT: ALL OF THEM)
+
+
+
+
+
+TOSS-UP
+
+
+
+20) PHYSICS  Short Answer  A hollow conducting sphere encloses a charge of +q and has a net charge of -2q. What are the charges on the inner surface and the outer surface of the sphere, respectively?
+
+
+
+ANSWER:   -Q AND -Q
+
+
+
+BONUS
+
+
+
+20) PHYSICS  Short Answer  A particle is moving with a displacement s in meters as a function of time t in seconds as s(t) = 2t3 + 2t2 - 2t – 1, for t greater than zero. At what positive times in seconds is the velocity of the particle zero?  
+
+
+
+ANSWER: T = 1/3 (READ: T EQUALS ONE-THIRD)
+
+
+
+TOSS-UP
+
+
+
+21)  BIOLOGY  Short Answer  Indicate all of the following three statements that are TRUE of neurotransmitters:
+
+
+
+1.  Acetylcholine only has excitatory function
+
+2.  Glycine has only excitatory function
+
+3.  Serotonin has only excitatory function
+
+
+
+ANSWER:  NONE OF THEM 
+
+
+
+BONUS
+
+
+
+21)  BIOLOGY  Short Answer  What peptide acts on GPCRs in the GI tract and CNS to cause satiety by reducing the rate of gastric emptying?
+
+
+
+ANSWER:  CHOLECYSTOKININ (ACCEPT: CCK)
+
+
+
+
+
+TOSS-UP
+
+
+
+22)  MATH   Short Answer  If g(x) = 2 – f(x), and the integral from 0 to 3 of f(x) dx is equal to 12, what is the average value of g(x) on the interval from 0 to 3? 
+
+
+
+ANSWER:  -2
+
+
+
+BONUS
+
+
+
+22) MATH  Short Answer Consider the probability of rolling two primes on two 20-sided dice. When this probability is expressed as p over q for p and q co-prime integers, what is p + q?
+
+
+
+ANSWER: 29
+
+
+
+ TOSS-UP
+
+
+
+23)  EARTH AND SPACE SCIENCE  Multiple Choice  Which of the following statements is FALSE of Bowen’s reaction series?
+
+
+
+W)  In the continuous series, calcium-rich plagioclaise crystallizes before sodium-rich
+
+X)  Potassium-rich muscovite mica crystallizes before magnesium-rich biotite mica
+
+Y)  Out of the common minerals, olivine crystallizes first and quartz crystallizes last
+
+Z)  Felsic rocks will generally crystallize after mafic rocks
+
+
+
+ANSWER: X)  POTASSIUM-RICH MUSCOVITE MICA CRYSTALLIZES BEFORE MAGNESIUM-RICH BIOTITE MICA
+
+
+
+BONUS
+
+
+
+23) EARTH AND SPACE SCIENCE  Short Answer  What type of atmospheric instability, which is clearly visible in the Crab nebula, results from an interface of two fluids with two different densities?
+
+
+
+ANSWER:  RAYLEIGH-TAYLOR INSTABILITY
+
+
+
+
+
+TOSS-UP
+
+
+
+24)  ENERGY  Short Answer  What near-IR telescope, which is aimed to orbit at the Earth-Sun L2 point and is planned for launch in late 2018, is the successor to Hubble and contains hexagonal gold-plated beryllium mirrors?
+
+
+
+ANSWER: JAMES WEBB SPACE TELESCOPE (ACCEPT: JWST)
+
+
+
+BONUS
+
+
+
+24) ENERGY  Multiple Choice  DOE scientists working with European counterparts at CERN are colliding fermions at the LHC to generate and study the Higgs boson. Which of the following statements concerning fermions and bosons is TRUE?
+
+
+
+W)  Bosons have symmetric wave functions under particle exchange and obey the Pauli exclusion principle
+
+X)  Bosons have antisymmetric wave functions under particle exchange and violate the Pauli exclusion principle
+
+Y)  Fermions have symmetric wave functions under particle exchange and violate the Pauli exclusion principle
+
+Z)  Fermions have antisymmetric wave functions under particle exchange and obey the Pauli exclusion principle
+
+
+
+ANSWER: Z)  FERMIONS HAVE ANTISYMMETRIC WAVE FUNCTIONS UNDER PARTICLE EXCHANGE AND OBEY THE PAULI EXCLUSION PRINCIPLE
+
+
+
+TOSS-UP
+
+
+
+25)  CHEMISTRY  Short Answer The reaction of carbon monoxide gas with oxygen gas to produce carbon dioxide gas is exothermic. Indicate all of the following three actions that will shift the equilibrium of this reaction to the right.
+
+
+
+Increasing the volume of the container
+
+Increasing the temperature of the container
+
+Adding nitrogen gas to the container
+
+
+
+ANSWER:  NONE OF THEM
+
+
+
+BONUS
+
+
+
+25)  CHEMISTRY  Short Answer Rank the following three compounds in terms of increasing oxidation state of carbon:
+
+
+
+Methylamine
+
+Formaldehyde
+
+Methane
+
+
+
+ANSWER:  3, 1, 2
+
+
+
+
+
+
+
