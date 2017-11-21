@@ -25,13 +25,13 @@
 {
     "category": 4,
     "questionNum": 4,
-    "tossupQ": "For a curve parametrized by the equations x(t) = 2cos(t) + 1 and y(t) = sin(t), what is the value of t on the closed interval [0 , \xcf\x80] that gives a horizontal tangent?",
-    "tossupA": "T= \xcf\x80/2 (READ: T EQUALS PI OVER 2)",
+    "tossupQ": "For a curve parametrized by the equations x(t) = 2cos(t) + 1 and y(t) = sin(t), what is the value of t on the closed interval [0 , π] that gives a horizontal tangent?",
+    "tossupA": "T= π/2 (READ: T EQUALS PI OVER 2)",
     "bonusQ": "Which of the following is true of ANOVA methods?\n\n\n\nW) The random effect ANOVA model is most useful for analyzing data from natural populations\n\nX)  ANOVA assumes that cases are not independent\n\nY) ANOVAs are less likely to produce a type I error than t-tests\n\nZ)  ANOVAs are not useful for randomization-based analysis",
     "bonusA": "Y)  ANOVAs ARE LESS LIKELY TO PRODUCE A TYPE I ERROR THAN T-TESTS"
 },
 {
-    "category": -1,
+    "category": 0,
     "questionNum": 5,
     "tossupQ": "Indicate all of the following three statements concerning streams and rivers that are TRUE:\n\n\n\n1.  A stream that existed before the present topography was created is called an antecedent stream.\n\n2.  Foreset beds are generally composed of sand and silt.\n\n3.  The east coast of North America generally lacks deltas because of weak waves and tides.",
     "tossupA": "1 AND 2",
@@ -65,7 +65,7 @@
 {
     "category": 3,
     "questionNum": 9,
-    "tossupQ": "Indicate all of the following four particles which have half-integer spin:\n\n\n\nTop quark\n\n\xcf\x800 meson\n\nW+ boson\n\nMuon",
+    "tossupQ": "Indicate all of the following four particles which have half-integer spin:\n\n\n\nTop quark\n\nπ0 meson\n\nW+ boson\n\nMuon",
     "tossupA": "1 AND 4",
     "bonusQ": "Consider an electrostatic configuration where the electric potential V = xyz (READ: V equals x times y times z). Rank the following three points in terms of increasing value for the electric field in the y-hat direction: 1. The origin; 2. The point (1,2,-3); 3. The point (1,-2,3).",
     "bonusA": "3, 1, 2"
@@ -79,7 +79,7 @@
     "bonusA": "32/125"
 },
 {
-    "category": -1,
+    "category": 0,
     "questionNum": 11,
     "tossupQ": "Which of the following is TRUE of type 1A supernovas?\n\n\n\nW)  The primary peak in their light curves is due to the formation and decay of nickel\n\nX)  Most type 1A supernovas result in the formation of white dwarves and neutron stars\n\nY)  Type 1A supernovas occur almost always in elliptical galaxies\n\nZ)  Type 1A supernovas lack silicon spectral lines",
     "tossupA": "W) THE PRIMARY PEAK IN THEIR LIGHT CURVES IS DUE TO THE FORMATION AND DECAY OF NICKEL",
@@ -97,7 +97,7 @@
 {
     "category": 2,
     "questionNum": 13,
-    "tossupQ": "Which of the following correctly gives the molecular orbital description for the molecule C2?\n\n\n\nW)  C2 is paramagnetic and has unpaired electrons filling valence antibonding \xcf\x80* orbitals\n\nX)  C2 is diamagnetic and has only paired electrons filling valence antibonding \xcf\x80* orbitals\n\nY)  C2 is paramagnetic and has unpaired electrons filling valence bonding orbitals\n\nZ)  C2 is diamagnetic and has only paired electrons filling valence bonding orbitals",
+    "tossupQ": "Which of the following correctly gives the molecular orbital description for the molecule C2?\n\n\n\nW)  C2 is paramagnetic and has unpaired electrons filling valence antibonding π* orbitals\n\nX)  C2 is diamagnetic and has only paired electrons filling valence antibonding π* orbitals\n\nY)  C2 is paramagnetic and has unpaired electrons filling valence bonding orbitals\n\nZ)  C2 is diamagnetic and has only paired electrons filling valence bonding orbitals",
     "tossupA": "Z) C2 is diamagnetic and has only paired electrons filling valence bonding orbitals",
     "bonusQ": "What is the VSEPR-predicted hybridization of the central atom and molecular geometry of the molecule BrF3?",
     "bonusA": "HYBRIDIZATION IS dsp3 (ACCEPT: sp3d) AND MOLECULAR GEOMETRY IS T-SHAPED"
@@ -123,11 +123,11 @@
     "questionNum": 16,
     "tossupQ": "What is the limit as x approaches 1 of the fraction with numerator (x-1) and denominator (x6-1) ?",
     "tossupA": "1/6",
-    "bonusQ": "For the function f(x) = x3 \xe2\x80\x93 6x2 + 9x, find all the critical values for x and classify them as either maxima, minima, or neither:",
+    "bonusQ": "For the function f(x) = x3 – 6x2 + 9x, find all the critical values for x and classify them as either maxima, minima, or neither:",
     "bonusA": "X=1 IS A MAXIMUM, X=3 IS A MINIMUM"
 },
 {
-    "category": -1,
+    "category": 0,
     "questionNum": 17,
     "tossupQ": "What type of unconformity results when in which the upper beds overlie metamorphic or igneous rock?",
     "tossupA": "NONCONFORMITY",
@@ -147,7 +147,7 @@
     "questionNum": 19,
     "tossupQ": "Which of the following statements about reaction kinetics is false, given that C represents the concentration of a reactant A?\n\n\n\nW)  Zero order reactions have a linear relationship between C and time\n\nX)  First order reactions have a linear relationship between the logarithm of C and time\n\nY) Second order reactions have a linear relationship between the reciprocal of C and time\n\nZ)  Third order reactions have a linear relationship between the square root of C squared and time",
     "tossupA": "Z) THIRD order reactions have a linear relationship between the square root of C and time",
-    "bonusQ": "Indicate all of the following three thermodynamic quantities which would have a positive value in the vaporization of liquid water into steam at 95 \xcb\x9aC.\n\n\n\n\xe2\x88\x86H\n\n\xe2\x88\x86S\n\n\xe2\x88\x86G",
+    "bonusQ": "Indicate all of the following three thermodynamic quantities which would have a positive value in the vaporization of liquid water into steam at 95 ˚C.\n\n\n\n∆H\n\n∆S\n\n∆G",
     "bonusA": "1, 2, AND 3 (ACCEPT: ALL OF THEM)"
 },
 {
@@ -155,7 +155,7 @@
     "questionNum": 20,
     "tossupQ": "A hollow conducting sphere encloses a charge of +q and has a net charge of -2q. What are the charges on the inner surface and the outer surface of the sphere, respectively?",
     "tossupA": "-Q AND -Q",
-    "bonusQ": "A particle is moving with a displacement s in meters as a function of time t in seconds as s(t) = 2t3 + 2t2 - 2t \xe2\x80\x93 1, for t greater than zero. At what positive times in seconds is the velocity of the particle zero?",
+    "bonusQ": "A particle is moving with a displacement s in meters as a function of time t in seconds as s(t) = 2t3 + 2t2 - 2t – 1, for t greater than zero. At what positive times in seconds is the velocity of the particle zero?",
     "bonusA": "T = 1/3 (READ: T EQUALS ONE-THIRD)"
 },
 {
@@ -169,13 +169,13 @@
 {
     "category": 4,
     "questionNum": 22,
-    "tossupQ": "If g(x) = 2 \xe2\x80\x93 f(x), and the integral from 0 to 3 of f(x) dx is equal to 12, what is the average value of g(x) on the interval from 0 to 3?",
+    "tossupQ": "If g(x) = 2 – f(x), and the integral from 0 to 3 of f(x) dx is equal to 12, what is the average value of g(x) on the interval from 0 to 3?",
     "tossupA": "-2",
     "bonusQ": "Consider the probability of rolling two primes on two 20-sided dice. When this probability is expressed as p over q for p and q co-prime integers, what is p + q?",
     "bonusA": "29"
 },
 {
-    "category": -1,
+    "category": 0,
     "questionNum": 23,
     "tossupQ": "Which of the following statements is FALSE of Bowen's reaction series?\n\n\n\nW)  In the continuous series, calcium-rich plagioclaise crystallizes before sodium-rich\n\nX)  Potassium-rich muscovite mica crystallizes before magnesium-rich biotite mica\n\nY)  Out of the common minerals, olivine crystallizes first and quartz crystallizes last\n\nZ)  Felsic rocks will generally crystallize after mafic rocks",
     "tossupA": "X)  POTASSIUM-RICH MUSCOVITE MICA CRYSTALLIZES BEFORE MAGNESIUM-RICH BIOTITE MICA",

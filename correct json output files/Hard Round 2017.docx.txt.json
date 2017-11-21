@@ -31,7 +31,7 @@
     "bonusA": "19/e"
 },
 {
-    "category": -1,
+    "category": 0,
     "questionNum": 5,
     "tossupQ": "Indicate all of the following three statements that are TRUE concerning globular clusters:\n\n\n\n1.  They are usually found outside the galactic plane \n\n2.  They are mostly composed of Population I stars\n\n3.  They often display active star formation",
     "tossupA": "1 ONLY",
@@ -169,13 +169,13 @@
 {
     "category": 4,
     "questionNum": 22,
-    "tossupQ": "What is the integral with lower bound \xe2\x80\x93pi/4 and upper bound pi/4 of the quantity cos(t) + sqrt(1+t^2)sin^3(t) dt?",
+    "tossupQ": "What is the integral with lower bound –pi/4 and upper bound pi/4 of the quantity cos(t) + sqrt(1+t^2)sin^3(t) dt?",
     "tossupA": "SQRT(2)",
     "bonusQ": "Suppose that 3x is congruent to 5 mod 11, and 2y is congruent to 7 mod 11. What is (x + y) mod 11?",
     "bonusA": "7"
 },
 {
-    "category": -1,
+    "category": 0,
     "questionNum": 23,
     "tossupQ": "On average, the water levels of sea lochs in Scotland have been falling for the last 10,000 years. Which of the following is the best explanation why?\n\n\n\nW)  Prolonged warming patterns over the last 10,000 years have caused the sea lochs to evaporate away\n\nX)  Changes in weather patterns have reduced precipitation and led to a decrease in water levels\n\nY)  Growth of polar glaciers until recently has locked water, leading to a decrease in water levels\n\nZ)  The recession of glaciers 10,000 years ago has caused crust to isostatically rebound, decreasing relative water levels",
     "tossupA": "Z)  THE RECESSION OF GLACIERS 10,000 YEARS AGO HAS CAUSED CRUST TO ISOSTATICALLY REBOUND, DECREASING RELATIVE WATER LEVELS",

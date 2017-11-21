@@ -12,7 +12,7 @@
 {
     "category": 2,
     "questionNum": 2,
-    "tossupQ": "Which of the following is NOT a characteristic of amines?\n\n\n\nW) A fully protonated amine is called an ammonium ion\n\nX) Amines can function as Br\xc3\xb8nsted bases\n\nY) The VSEPR geometry of the nitrogen atom is trigonal planar\n\nZ) Amines can be a hydrogen bond acceptor",
+    "tossupQ": "Which of the following is NOT a characteristic of amines?\n\n\n\nW) A fully protonated amine is called an ammonium ion\n\nX) Amines can function as Brønsted bases\n\nY) The VSEPR geometry of the nitrogen atom is trigonal planar\n\nZ) Amines can be a hydrogen bond acceptor",
     "tossupA": "Y) The VSEPR geometry of the nitrogen atom is trigonal planar",
     "bonusQ": "Of the following elements in their monatomic gaseous states, which has the lowest electron affinity?\n\n\n\nW) BoronX) CarbonY) NitrogenZ) Oxygen",
     "bonusA": "Y) NITROGEN"
@@ -55,7 +55,7 @@
     "tossupQ": "The sum of the digits of a number is equal to 1.11 times some power of 10. Which of the following primes must be a factor of this number?\n\n\n\nW) 2\n\nX) 3\n\nY) 5\n\nZ) 7",
     "tossupA": "3",
     "bonusQ": "Consider a sphere whose radius is increasing at a rate of 2 centimeters per second. What is the instantaneous rate of change of volume in cubic centimeters per second when the radius is 3 centimeters?",
-    "bonusA": "72 \xcf\x80"
+    "bonusA": "72 π"
 },
 {
     "category": 2,
@@ -86,13 +86,13 @@
     "questionNum": 11,
     "tossupQ": "Ten 100 ohm resistors are connected in series to a 15 volt battery. How much energy in joules is dissipated in this circuit in 60 seconds? \n\n \n\nW) 0.225\n\nX) 13.5 \n\nY) 27.0\n\nZ) 75",
     "tossupA": "X) 13.5",
-    "bonusQ": "Consider an RL circuit with a voltage source of 50 volts, a resistor with resistance 10 ohms, and a 20 millihenry inductor. The voltage source is turned on at time t = 0. What is the energy, in joules to the nearest hundredth, stored by the inductor at t = \xe2\x88\x9e?",
+    "bonusQ": "Consider an RL circuit with a voltage source of 50 volts, a resistor with resistance 10 ohms, and a 20 millihenry inductor. The voltage source is turned on at time t = 0. What is the energy, in joules to the nearest hundredth, stored by the inductor at t = ∞?",
     "bonusA": "0.25 (ACCEPT: 0.25 J)"
 },
 {
     "category": 5,
     "questionNum": 12,
-    "tossupQ": "Which of the following is NOT true regarding biofuels? \n\n\n\nW) Biodiesel is as biodegradable as sugar\xe2\x80\xa8\n\nX) Burning ethanol produces a lower amount of energy per unit volume than gasoline \n\nY) Biodiesel can only be burned via the Otto cycle\xe2\x80\xa8\n\nZ) The most common biogas is methane",
+    "tossupQ": "Which of the following is NOT true regarding biofuels? \n\n\n\nW) Biodiesel is as biodegradable as sugar \n\nX) Burning ethanol produces a lower amount of energy per unit volume than gasoline \n\nY) Biodiesel can only be burned via the Otto cycle \n\nZ) The most common biogas is methane",
     "tossupA": "Y) BIODIESEL CAN ONLY BE BURNED VIA THE OTTO CYCLE",
     "bonusQ": "What nanoscale semiconductor particles, which confine electrons, have bulk properties, like color, that depend on particle size?",
     "bonusA": "QUANTUM DOTS"
@@ -100,15 +100,15 @@
 {
     "category": 4,
     "questionNum": 13,
-    "tossupQ": "Which of the following describes the solutions to the equation \xf0\x9d\x91\x8e\xf0\x9d\x91\xa52 + \xf0\x9d\x91\x8f\xf0\x9d\x91\xa5 + \xf0\x9d\x91\x90 = 0 if b = 0 and the product of a and c is positive? \n\nW) Positive real\n\nX) Negative real\n\nY) Pure imaginary\n\nZ) Complex",
+    "tossupQ": "Which of the following describes the solutions to the equation 𝑎𝑥2 + 𝑏𝑥 + 𝑐 = 0 if b = 0 and the product of a and c is positive? \n\nW) Positive real\n\nX) Negative real\n\nY) Pure imaginary\n\nZ) Complex",
     "tossupA": "Y) PURE IMAGINARY",
-    "bonusQ": "If x is a positive real number that grows without bound, then what value does log3 (18x \xe2\x80\x93 10) \xe2\x80\x93 log3 (2x + 3) approach?",
+    "bonusQ": "If x is a positive real number that grows without bound, then what value does log3 (18x – 10) – log3 (2x + 3) approach?",
     "bonusA": "2"
 },
 {
     "category": 2,
     "questionNum": 14,
-    "tossupQ": "Which of the following statements fully describes the products of a reaction that involves achiral [ay-KY-ruhl] reagents, achiral reactants, and achiral solvents? \n\n\n\nW) The products cannot be chiral [KY-ruhl]\xe2\x80\xa8\n\nX) The products can be chiral, but they must only consist of one enantiomer [i-NAN-tee-uh- mer]\xe2\x80\xa8\n\nY) The products can be chiral and can be enriched in one enantiomer over another\xe2\x80\xa8\n\nZ) The products can be chiral, but must be a racemic mixture [ray-SEE-mik]",
+    "tossupQ": "Which of the following statements fully describes the products of a reaction that involves achiral [ay-KY-ruhl] reagents, achiral reactants, and achiral solvents? \n\n\n\nW) The products cannot be chiral [KY-ruhl] \n\nX) The products can be chiral, but they must only consist of one enantiomer [i-NAN-tee-uh- mer] \n\nY) The products can be chiral and can be enriched in one enantiomer over another \n\nZ) The products can be chiral, but must be a racemic mixture [ray-SEE-mik]",
     "tossupA": "Z) THE PRODUCTS CAN BE CHIRAL, BUT MUST BE A RACEMIC MIXTURE",
     "bonusQ": "For an ideal gas obeying the Maxwell-Boltzmann distribution, at a given temperature, rank the following three from lowest to highest: \n\n1. mode particulate speed; \n\n2. mean particulate speed; \n\n3. root mean square particulate speed.",
     "bonusA": "1, 2, 3 (ACCEPT: MODE PARTICULATE SPEED, MEAN PARTICULATE SPEED, ROOT MEAN SQUARE PARTICULATE SPEED, IN THAT ORDER)"
@@ -132,10 +132,10 @@
 {
     "category": 3,
     "questionNum": 17,
-    "tossupQ": "\xe2\x80\xa8 Which of the following statements concerning orbits in a two-body gravitational system is NOT TRUE? \n\n\n\nW) Orbits that have eccentricities greater than 1 are hyperbolas\n\nX) Hyperbolic orbits have negative energy\n\nY) The potential energy for a circular orbit is equal to the negative 2 times the kinetic energy \n\nZ) All such orbits occur in a single plane",
+    "tossupQ": "Which of the following statements concerning orbits in a two-body gravitational system is NOT TRUE? \n\n\n\nW) Orbits that have eccentricities greater than 1 are hyperbolas\n\nX) Hyperbolic orbits have negative energy\n\nY) The potential energy for a circular orbit is equal to the negative 2 times the kinetic energy \n\nZ) All such orbits occur in a single plane",
     "tossupA": "X) HYPERBOLIC ORBITS HAVE NEGATIVE ENERGY",
-    "bonusQ": "An electron is moving in a magnetic field. The field is described by B = 2.5i + 2j, and the electron\'s velocity is given by j + 2k. Assuming that the charge of a proton is 1, what is the vector that describes the force on the electron as it moves through the magnetic field?",
-    "bonusA": "4i \xe2\x80\x93 5j + 2.5k (ACCEPT: (4, -5, 2.5))"
+    "bonusQ": "An electron is moving in a magnetic field. The field is described by B = 2.5i + 2j, and the electron's velocity is given by j + 2k. Assuming that the charge of a proton is 1, what is the vector that describes the force on the electron as it moves through the magnetic field?",
+    "bonusA": "4i – 5j + 2.5k (ACCEPT: (4, -5, 2.5))"
 },
 {
     "category": 5,
@@ -158,7 +158,7 @@
     "questionNum": 20,
     "tossupQ": "Indicate all of the following three compounds that have a dipole moment: 1. Xenon tetroxide; 2. Xenon tetrafluoride; 3. Xenon trioxide.",
     "tossupA": "3 ONLY",
-    "bonusQ": "Which of the following statements is TRUE concerning the compressibility factor of a gas? \n\n\n\nW) It is equal to zero for ideal gases\xe2\x80\xa8\n\nX) It is smaller than one at high pressures for most real gases \n\nY) It is smaller than one at low pressures for most real gases\xe2\x80\xa8\n\nZ) The compressibility factor of a van-der-Waals gas is constant with pressure",
+    "bonusQ": "Which of the following statements is TRUE concerning the compressibility factor of a gas? \n\n\n\nW) It is equal to zero for ideal gases \n\nX) It is smaller than one at high pressures for most real gases \n\nY) It is smaller than one at low pressures for most real gases \n\nZ) The compressibility factor of a van-der-Waals gas is constant with pressure",
     "bonusA": "Y) IT IS SMALLER THAN ONE AT LOW PRESSURES FOR MOST REAL GASES"
 },
 {
@@ -190,7 +190,7 @@
     "questionNum": 24,
     "tossupQ": "If the secondary side of a transformer has 300 loops, what is the secondary voltage in volts produced when the primary voltage applied is 100 volts using 60 loops?",
     "tossupA": "500 V (ACCEPT: 500)",
-    "bonusQ": "Which of the following is NOT true regarding the nitrogenase enzyme? \n\n\n\nW) The formation of ammonia from molecular hydrogen and nitrogen is exothermic\xe2\x80\xa8\n\nX) Nitrogenase contains an iron-containing cofactor \n\nY) Glutamine is used as the final nitrogen-sink in the reaction\n\nZ) Ferrodoxin or flavodoxin act as oxidizing agents",
+    "bonusQ": "Which of the following is NOT true regarding the nitrogenase enzyme? \n\n\n\nW) The formation of ammonia from molecular hydrogen and nitrogen is exothermic \n\nX) Nitrogenase contains an iron-containing cofactor \n\nY) Glutamine is used as the final nitrogen-sink in the reaction\n\nZ) Ferrodoxin or flavodoxin act as oxidizing agents",
     "bonusA": "Z) FERRODOXIN OR FLAVODOXIN ACT AS OXIDIZING AGENTS"
 },
 {
@@ -198,6 +198,6 @@
     "questionNum": 25,
     "tossupQ": "Convert 103 in base 10 to base 7.",
     "tossupA": "205",
-    "bonusQ": "Which of the following numerical integration methods will result in an overestimation of the area under the graph of \xf0\x9d\x91\xa6 = x [y equals the square root of x] on the interval [0,1] [closed interval from 0 to 1] ? \n\nW) Left Riemann sum\xe2\x80\xa8\n\nX) Trapezoidal rule\xe2\x80\xa8\n\nY) Average of left and right Riemann sums \n\nZ) Midpoint Riemann sum",
+    "bonusQ": "Which of the following numerical integration methods will result in an overestimation of the area under the graph of 𝑦 = x [y equals the square root of x] on the interval [0,1] [closed interval from 0 to 1] ? \n\nW) Left Riemann sum \n\nX) Trapezoidal rule \n\nY) Average of left and right Riemann sums \n\nZ) Midpoint Riemann sum",
     "bonusA": "Z) MIDPOINT RIEMANN SUM"
 }]

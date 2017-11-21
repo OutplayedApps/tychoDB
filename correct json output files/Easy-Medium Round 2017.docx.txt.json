@@ -31,7 +31,7 @@
     "bonusA": "8/3"
 },
 {
-    "category": -1,
+    "category": 0,
     "questionNum": 5,
     "tossupQ": "Jupiter's Galilean moons are thought to have all formed at the same time as Jupiter from a sub-nebula surrounding the planet. Indicate all of the following three statements concerning the Galilean moons that are TRUE: \n\n\n\n1.  They all orbit in Jupiter's equatorial plane\n\n2.  Their density decreases with increasing semi-major axis\n\n3.  They all have the same composition",
     "tossupA": "1 AND 2",
@@ -75,11 +75,11 @@
     "questionNum": 10,
     "tossupQ": "What is the sum of the numbers of faces, vertices, and edges of an 3d polytope that has 20 faces and 20 vertices?",
     "tossupA": "78",
-    "bonusQ": "The region bounded by the curves y = x and y = x2 in the first quadrant of the xy-plane is rotated about the y-axis. What is the volume of the resulting solid of revolution, in terms of \xcf\x80?",
-    "bonusA": "\xcf\x80/6"
+    "bonusQ": "The region bounded by the curves y = x and y = x2 in the first quadrant of the xy-plane is rotated about the y-axis. What is the volume of the resulting solid of revolution, in terms of π?",
+    "bonusA": "π/6"
 },
 {
-    "category": -1,
+    "category": 0,
     "questionNum": 11,
     "tossupQ": "Which of the following volcanoes was created by the thinning of continental crust through rifting?\n\n\n\nW)  Kilauea, Hawaii\n\nX)  Colima, Mexico \n\nY)  Hekla, Iceland\n\nZ)  Kilimanjaro, Tanzania",
     "tossupA": "Z) KILIMANJARO, TANZANIA",
@@ -121,13 +121,13 @@
 {
     "category": 4,
     "questionNum": 16,
-    "tossupQ": "Consider the piecewise function f(x) = a + bx for x less than or equal to 3, and equal to x2 \xe2\x80\x93 1 for x greater than 3. What assignment of a and b makes f(x) both continuous and differentiable everywhere? \n\n\n\nW)  a = 3 and b = 3\n\nX)  a = 3 and b = 6\n\nY)  a = -10 and b = 3\n\nZ)  a = -10 and b = 6",
+    "tossupQ": "Consider the piecewise function f(x) = a + bx for x less than or equal to 3, and equal to x2 – 1 for x greater than 3. What assignment of a and b makes f(x) both continuous and differentiable everywhere? \n\n\n\nW)  a = 3 and b = 3\n\nX)  a = 3 and b = 6\n\nY)  a = -10 and b = 3\n\nZ)  a = -10 and b = 6",
     "tossupA": "Z) A = -10 AND B = 6",
     "bonusQ": "What is the minimum distance between the plane 2x + y + 3z = 3 and the origin?",
     "bonusA": "3SQRT(14)/14"
 },
 {
-    "category": -1,
+    "category": 0,
     "questionNum": 17,
     "tossupQ": "What is the term for the distance from a planetesimal at which the orbital period around the planetesimal is equal to the orbital period of the planetesimal around the Sun?",
     "tossupA": "HILL RADIUS",
@@ -175,9 +175,9 @@
     "bonusA": "-18"
 },
 {
-    "category": -1,
+    "category": 0,
     "questionNum": 23,
-    "tossupQ": "Why is it impossible for white dwarfs to have a mass greater than about 1.44 solar masses?\n\n\n\nW)  Above 1.4 solar masses, pair-pair production leads to the combination of protons and electrons\xe2\x80\xa8\n\nX)  Above 1.4 solar masses temperatures become so hot that the outward pressure of gas slowly blows the star apart \n\nY)  White dwarfs cannot achieve hot enough temperatures for electron degeneracy pressure to counteract gravitational contraction above 1.44 solar masses\xe2\x80\xa8\n\nZ)  Relativistic effects prevent electron degeneracy pressure from counteracting arbitrarily strong gravitational forces",
+    "tossupQ": "Why is it impossible for white dwarfs to have a mass greater than about 1.44 solar masses?\n\n\n\nW)  Above 1.4 solar masses, pair-pair production leads to the combination of protons and electrons \n\nX)  Above 1.4 solar masses temperatures become so hot that the outward pressure of gas slowly blows the star apart \n\nY)  White dwarfs cannot achieve hot enough temperatures for electron degeneracy pressure to counteract gravitational contraction above 1.44 solar masses \n\nZ)  Relativistic effects prevent electron degeneracy pressure from counteracting arbitrarily strong gravitational forces",
     "tossupA": "Z)  RELATIVISTIC EFFECTS PREVENT ELECTRON DEGENERACY PRESSURES FROM COUNTERACTING ARBITRARILY STRONG GRAVITATIONAL FORCES",
     "bonusQ": "What type of ultramafic rock is believed to be no longer formed on Earth because the mantle is no longer hot enough?",
     "bonusA": "KOMATIITE"

@@ -31,7 +31,7 @@
     "bonusA": "X) Y = SIN(2X) + 1/4"
 },
 {
-    "category": -1,
+    "category": 0,
     "questionNum": 5,
     "tossupQ": "Indicate all of the following three statements that are TRUE concerning metallicity:\n\n\n\n1.  Higher metallicity stars generally live longer lives\n\n2.  Metallicity refers to the fraction of elements in a star with mass greater than oxygen\n\n3.  The metallicity of the sun is about 0.01%",
     "tossupA": "1 ONLY",
@@ -65,7 +65,7 @@
 {
     "category": 3,
     "questionNum": 9,
-    "tossupQ": "Indicate all of the following three matter particles that can interact through the weak force:\n\n\n\nTop quark\n\n\xcf\x800 meson\n\nMuon neutrino",
+    "tossupQ": "Indicate all of the following three matter particles that can interact through the weak force:\n\n\n\nTop quark\n\nπ0 meson\n\nMuon neutrino",
     "tossupA": "ALL OF THEM",
     "bonusQ": "Consider an infinite line of charge with a constant, positive linear charge density. If a charge of 2 microcoulombs placed a distance of 1 meter away experiences a force of 10 newtons, what is the force a charge of 1 microcouloumb a distance 2 meters away would experience in newtons?",
     "bonusA": "5/2"
@@ -79,7 +79,7 @@
     "bonusA": "27"
 },
 {
-    "category": -1,
+    "category": 0,
     "questionNum": 11,
     "tossupQ": "Which of the following statements is NOT TRUE of faults and tectonics?\n\n\n\nW)  Horsts are downward-faulted blocks in basin-and-range provinces\n\nX)  The Allegheny orogeny, about 250-300 Mya, is associated with the continental collision of Africa and North America\n\nY)  Great overturned folds called nappes are characteristic of the Alps\n\nZ)  Normal faults are associated with tensional forces",
     "tossupA": "W) HORSTS ARE DOWNWARD-FAULTED BLOCKS IN BASIN-AND-RANGE PROVINCES",
@@ -127,7 +127,7 @@
     "bonusA": "5/8"
 },
 {
-    "category": -1,
+    "category": 0,
     "questionNum": 17,
     "tossupQ": "A distant alien planet emits a light beam at Earth whose wavelength is 250 nm in their frame. When we receive the light, we notice that the aliens live in a galaxy with z=1.5. What is the wavelength of the light in our frame, in nm?",
     "tossupA": "625",
@@ -175,7 +175,7 @@
     "bonusA": "24"
 },
 {
-    "category": -1,
+    "category": 0,
     "questionNum": 23,
     "tossupQ": "Which of the following statements is FALSE of Bowen's reaction series?\n\n\n\nW)  Biotite mica crystallizes before amphibole \n\nX)  Calcium-rich plagioclase crystallizes before sodium rich\n\nY)  Orthoclase crystallizes before muscovite mica\n\nZ)  Olivine is in the discontinuous series",
     "tossupA": "W)  BIOTITE MICA CRYSTALLIZES BEFORE AMPHIBOLE",
@@ -195,6 +195,6 @@
     "questionNum": 25,
     "tossupQ": "Indicate all of the following three changes that would accelerate the free-radical halogenation of an alkane:\n\n\n\nUsing chlorine instead of bromine\n\nIncreasing the intensity of UV light\n\nUsing an unbranched alkane over a branched alkane",
     "tossupA": "1 AND 2",
-    "bonusQ": "Indicate all of the following three coordination compounds that are diamagnetic:\n\n\n\nFe(CN)<sub>6</sub> 4-\n\nRh(H2O)6 3+\n\nMn(CN)6 4-",
+    "bonusQ": "Indicate all of the following three coordination compounds that are diamagnetic:\n\n\n\nFe(CN)6 4-\n\nRh(H2O)6 3+\n\nMn(CN)6 4-",
     "bonusA": "1 ONLY"
 }]
