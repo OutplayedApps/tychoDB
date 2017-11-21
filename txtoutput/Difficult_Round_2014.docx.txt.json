@@ -40,13 +40,13 @@ ANSWER: Y
 
 BONUS MATH Multiple Choice Of the following differential equations, which will demonstrate a persistent, non-decaying sensitivity to initial conditions?
 
-W) y’’ + 2y = sin(x)
+W) y'' + 2y = sin(x)
 
-X) y’’ + 2y’ + 2y = 0
+X) y'' + 2y' + 2y = 0
 
-Y) y’’ + 2y’ + 2y = sin(x)
+Y) y'' + 2y' + 2y = sin(x)
 
-Z) y’’ + 2y’ + 2y = step function of x
+Z) y'' + 2y' + 2y = step function of x
 
 ANSWER: W
 
@@ -60,7 +60,7 @@ ANSWER: 2 ONLY
 
 TOSS-UP BIOLOGY Multiple Choice Which of the following cofactors is not involved in the transfer of one carbon groups?
 
-W) Pyridoxal 5’-phosphate
+W) Pyridoxal 5'-phosphate
 
 X) S-adenosylmethionine
 
@@ -110,7 +110,7 @@ Z) Anomeric effect
 
 ANSWER: Y
 
-BONUS CHEMISTRY Short Answer Give, by name or number, all of the following three statements that are TRUE concerning a chemical bond, modeled as a quantum harmonic oscillator: 1. The spacing of energy levels doesn’t change with the quantum number n; 2. Any energy level can transition to any other energy level; 3. The lowest energy level has no vibration.
+BONUS CHEMISTRY Short Answer Give, by name or number, all of the following three statements that are TRUE concerning a chemical bond, modeled as a quantum harmonic oscillator: 1. The spacing of energy levels doesn't change with the quantum number n; 2. Any energy level can transition to any other energy level; 3. The lowest energy level has no vibration.
 
 ANSWER: 1 ONLY
 
@@ -128,7 +128,7 @@ ANSWER: 3, 2, 1
 
 BONUS PHYSICS Short Answer Assume that a wave obeys a dispersive relation where the angular frequency of the wave is proportional to the square of its wavenumber magnitude. In this case, what is the ratio of the group velocity of the wave to its phase velocity when the wavenumber has magnitude 10?
 
-ANSWER: 2 (It’s always 2, for any wavenumber)
+ANSWER: 2 (It's always 2, for any wavenumber)
 
 TOSS-UP ESSC Short Answer Give, by name or number, all of the following three statements concerning the geologic time scale that are TRUE: 1. Vertebrate tetrapods first moved onto land in the late Devonian; 2. Early mammals first appeared in the middle Cretaceous; 3. The first jawless fish appeared in the Ordovician.
 
@@ -210,7 +210,7 @@ BONUS BIOLOGY Short Answer Give, by name or number, all of the following four st
 
 ANSWER: 1 AND 2
 
-TOSS-UP ESSC Multiple Choice Which of the following statements regarding Bowen’s reaction series is false?
+TOSS-UP ESSC Multiple Choice Which of the following statements regarding Bowen's reaction series is false?
 
 W) Minerals at the top of the reaction series have the highest weathering potential 
 
@@ -230,7 +230,7 @@ TOSS-UP ENERGY Short Answer Give, by name or number, all of the following three 
 
 ANSWER: 1 AND 3
 
-BONUS ENERGY Short Answer If the power supplied by the wind to a wind turbine is equal to 81 kW, what is the maximum power extractable from the wind turbine according to Betz’s law, to the nearest kW?
+BONUS ENERGY Short Answer If the power supplied by the wind to a wind turbine is equal to 81 kW, what is the maximum power extractable from the wind turbine according to Betz's law, to the nearest kW?
 
 ANSWER: 48 kW
 
@@ -286,7 +286,7 @@ TOSS-UP MATH Short Answer Give, by name or number, all of the following three se
 
 ANSWER: 1 AND 2
 
-BONUS MATH Short Answer The Cesaro sum of an infinite series finds the limit of the average of the first n-terms in a series, as n goes to infinity. Give, by name or number, all of the following series that have a finite Cesaro sum: 1. The harmonic series; 2. Grandi’s series, which is the sum from n = 0 to infinity of (-1)^n; 3. The alternating sum of the integers, which is the sum from n=0 to infinity of (-1)^n times n.
+BONUS MATH Short Answer The Cesaro sum of an infinite series finds the limit of the average of the first n-terms in a series, as n goes to infinity. Give, by name or number, all of the following series that have a finite Cesaro sum: 1. The harmonic series; 2. Grandi's series, which is the sum from n = 0 to infinity of (-1)^n; 3. The alternating sum of the integers, which is the sum from n=0 to infinity of (-1)^n times n.
 
 ANSWER: 2 ONLY
 

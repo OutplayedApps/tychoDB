@@ -7,6 +7,8 @@ categoryList = {
     "OTHER": -1,
     "EARTH SCIENCE": 0,
     "EARTH AND SPACE": 0,
+    "EARTH AND SPACE SCIENCE": 0,
+    "ESSC": 0,
     "ASTRONOMY": 0,
     "BIOLOGY": 1,
     "CHEMISTRY": 2,
@@ -19,14 +21,14 @@ categoryList = {
 };
 
 searchString = (
-    r"(TOSS\-UP|TOSSUP|TOSS\s*UP)\s*"
-    r"(?P<questionNum>\d{1,2})[\.\)]\s*(?P<category>[A-Z ]+)\s*"
-    r"(?i)(Short Answer|Multiple Choice)\s*(?P<tossupQ>[\S\s]*?)"
-    r"ANSWER\:\s*(?P<tossupA>[\S\s]*?)"
+    r"(?i)(TOSS\-UP|TOSSUP|TOSS\s*UP)\s*"
+    r"(?P<questionNum>\d{1,2})[\.\)\:]\s*(?P<category>[A-Za-z ]+)\:?\s*"
+    r"(?i)((Short Answer|Multiple Choice)\:?)\s*(?P<tossupQ>[\S\s]*?)"
+    r"ANSWER\:(?P<tossupA>[\S\s]*?)"
 
-    r"\s*BONUS\s*"
-    r"(?P<questionNumBonus>\d{1,2})[\.\)]\s*(?P<categoryBonus>[A-Z ]+)\s*"
-    r"(?i)(Short Answer|Multiple Choice)\s*(?P<bonusQ>[\S\s]*?)"
+    r"\s*(?i)(BONUS)\s*"
+    r"(?P<questionNumBonus>\d{1,2})[\.\)\:]\s*(?P<categoryBonus>[A-Za-z ]+)\:?\s*"
+    r"(?i)((Short Answer|Multiple Choice)\:?)\s*(?P<bonusQ>[\S\s]*?)"
     r"ANSWER\:(?P<bonusA>[\S\s]*?)(?=TOSS)"
 )
 
@@ -41,16 +43,16 @@ replaceString = r"""
 }},"""
 
 def format(string):
-    return string.strip().encode("string_escape").decode("utf-8")
+    return string.strip().replace("\n","\\n")
 
 def getCategoryId(category):
 
-    category = category.strip()
+    category = category.strip().upper()
     if category in categoryList:
         return categoryList[category]
     else:
-        print "can't find category: " + category
-        #raise ValueError("can\'t find cat" + category)
+        #print "can't find category: " + category
+        raise ValueError("can\'t find cat" + category)
         return categoryList["OTHER"]
 
 def parse(text):
