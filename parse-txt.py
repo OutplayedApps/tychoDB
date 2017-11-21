@@ -19,15 +19,15 @@ categoryList = {
 };
 
 searchString = (
-    r"(TOSS\-UP|TOSSUP|TOSS UP)\s*"
+    r"(TOSS\-UP|TOSSUP|TOSS\s*UP)\s*"
     r"(?P<questionNum>\d{1,2})[\.\)]\s*(?P<category>[A-Z ]+)\s*"
-    r"(?i)(Short Answer|Multiple Choice)\s*(?P<tossupQ>[\S\s]*)"
-    r"ANSWER\:(?P<tossupA>[\w ]*)"
+    r"(?i)(Short Answer|Multiple Choice)\s*(?P<tossupQ>[\S\s]*?)"
+    r"ANSWER\:\s*(?P<tossupA>[\S\s]*?)"
 
     r"\s*BONUS\s*"
     r"(?P<questionNumBonus>\d{1,2})[\.\)]\s*(?P<categoryBonus>[A-Z ]+)\s*"
-    r"(?i)(Short Answer|Multiple Choice)\s*(?P<bonusQ>[\S\s]*)"
-    r"ANSWER\:(?P<bonusA>[\w\)\. ]*)\s*"
+    r"(?i)(Short Answer|Multiple Choice)\s*(?P<bonusQ>[\S\s]*?)"
+    r"ANSWER\:(?P<bonusA>[\S\s]*?)(?=TOSS)"
 )
 
 replaceString = r"""
@@ -38,11 +38,10 @@ replaceString = r"""
     "tossupA": "{tossupA}",
     "bonusQ": "{bonusQ}",
     "bonusA": "{bonusA}"
-}},
-"""
+}},"""
 
 def format(string):
-    return string.strip().encode("string_escape")
+    return string.strip().encode("string_escape").decode("utf-8")
 
 def getCategoryId(category):
 
@@ -55,67 +54,7 @@ def getCategoryId(category):
         return categoryList["OTHER"]
 
 def parse(text):
-    text = """
-
-
-TOSS UP
-
-
-
-1. MATH  Short Answer  Pablo walks 4 miles north, 6 miles east, and then 2 miles north again. In simplest form, how many miles is he from his starting point?
-
-
-
-ANSWER: 6
-
-
-
-BONUS
-
-
-
-1. MATH  Short Answer  Evaluate the limit as x approaches infinity of x times the quantity negative 1 plus e to the 1 over x.
-
-
-
-ANSWER: 1
-
-
-
-TOSS UP
-
-
-
-2. CHEMISTRY  Multiple Choice  Which of the following is NOT a characteristic of amines?
-
-
-
-W) A fully protonated amine is called an ammonium ion
-
-X) Amines can function as Brønsted bases
-
-Y) The VSEPR geometry of the nitrogen atom is trigonal planar
-
-Z) Amines can be a hydrogen bond acceptor
-
-
-
-ANSWER: Y) The VSEPR geometry of the nitrogen atom is trigonal planar
-
-
-
-BONUS
-
-
-
-2. CHEMISTRY  Multiple Choice  Of the following elements in their monatomic gaseous states, which has the lowest electron affinity?
-
-
-
-W) BoronX) CarbonY) NitrogenZ) OxygenANSWER: Y) NITROGEN
-
-
-    """
+    text += "TOSS-UP"
     jsonstring = re.sub(
         searchString,
         lambda m: replaceString.format(
@@ -128,7 +67,10 @@ W) BoronX) CarbonY) NitrogenZ) OxygenANSWER: Y) NITROGEN
             ),
         text
         )
-    return jsonstring
+    jsonstring = jsonstring[:-7] # remove TOSS-UP
+    jsonstring = jsonstring[:-1] # remove ,
+    jsonstring = re.sub("\\xe2\\x80\\x99", "'", jsonstring);
+    return "[" + jsonstring + "]"
     #return json.loads("[" + jsonstring + "]")
 
 input_folder = "txt"
@@ -141,4 +83,6 @@ for fn in os.listdir(input_full_path):
         text = f.read()
         text = parse(text)
         print text
-    break
+        with open(output_folder + "\\" +  fn + ".json", "w") as f:
+            f.write(text)
+    
