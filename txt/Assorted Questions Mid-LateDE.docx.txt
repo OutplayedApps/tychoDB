@@ -1,6 +1,6 @@
 Assorted Questions 2: Mid-Late DE Difficulty
 
-TOSS-UP 1) ENERGY Short Answer: Name all of the following three statements that is/are TRUE of nuclear power.
+TOSS-UP 1) ENERGY Short Answer Name all of the following three statements that is/are TRUE of nuclear power.
 
 The fission of a nucleus of U-235 releases, on average, slightly more than 3 neutrons
 
@@ -10,11 +10,11 @@ Thorium is naturally enriched in its fissile isotope, Thorium-231 – and thus c
 
 ANSWER: 2 only 
 
-BONUS 1) ENERGY Short Answer: This a general type of Vertical Axis Wind Turbine used to generate electricity from wind energy – consisting of a number of aerofoils usually--but not always--vertically mounted on a rotating shaft or framework. Subtypes include the Giromill and Cycloturbine wind turbines.
+BONUS 1) ENERGY Short Answer This a general type of Vertical Axis Wind Turbine used to generate electricity from wind energy – consisting of a number of aerofoils usually--but not always--vertically mounted on a rotating shaft or framework. Subtypes include the Giromill and Cycloturbine wind turbines.
 
 ANSWER: Darrieus Wind Turbine
 
-ESSC: Multiple Choice: Which of the following is the lifetime of M dwarfs on the main sequence?
+TOSS-UP 2) EARTH AND SPACE Multiple Choice: Which of the following is the lifetime of M dwarfs on the main sequence?
 
 W) Less than 100 million years
 
@@ -26,49 +26,49 @@ Z) Longer than a Hubble time
 
 ANSWER: Z) Longer than a Hubble time
 
-ESSC: Short Answer: By number, identify all of the following four statements that are true when comparing basaltic rock to granitic rock, 1) basaltic rock is composed of more magnesium and iron; 2) basaltic rock is more common in continental crust; 3) basaltic rock is more dense; 4) basaltic rock is formed from magma with a lower viscosity and lower gas content. 
+BONUS 2) EARTH AND SPACE Short Answer: By number, identify all of the following four statements that are true when comparing basaltic rock to granitic rock, 1) basaltic rock is composed of more magnesium and iron; 2) basaltic rock is more common in continental crust; 3) basaltic rock is more dense; 4) basaltic rock is formed from magma with a lower viscosity and lower gas content. 
 
 ANSWER: 1, 3, 4 
 
-MATH: Multiple Choice: Which of the following statements best describes the function f(x) = xe-x on the interval of the entire real line?
+TOSSUP 3) MATH: Multiple Choice: Which of the following statements best describes the function f(x) = xe-x on the interval of the entire real line?
 
-W. Always increasing over the entire interval
+W) Always increasing over the entire interval
 
-X. Always decreasing over the entire interval
+X) Always decreasing over the entire interval
 
-Y. Decreasing until a minimum at x=1, then increasing
+Y) Decreasing until a minimum at x=1, then increasing
 
-Z. Increasing until a maximum at x=1, then decreasing
+Z) Increasing until a maximum at x=1, then decreasing
 
 ANSWER: Z
 
-MATH: Short Answer: Compute the family of functions that are antiderivatives of the function f(x) = xe-x.
+BONUS 3) MATH: Short Answer: Compute the family of functions that are antiderivatives of the function f(x) = xe-X)
 
-ANSWER: -xe-x – e-x + C (ACCEPT EQUIVALENTS)
+ANSWER: -xe<sup>-x</sup> – e<sup>-x</sup> + C (ACCEPT EQUIVALENTS)
 
-BIOLOGY Short Answer A monoicous bryophyte will possess which TWO sexual organs of the gametocyte phase of reproduction?
+TOSSUP 4) BIOLOGY Short Answer A monoicous bryophyte will possess which TWO sexual organs of the gametocyte phase of reproduction?
 
 ANSWER: archegonia and antheridia
 
-BIOLOGY Short Answer What is a class of proteins that play a key role in the innate immune system, and are single, membrane-spanning, non-catalytic receptors that recognize structurally conserved molecules derived from microbes, and are named after similar proteins found in Drosophila?
+BONUS 4) BIOLOGY Short Answer What is a class of proteins that play a key role in the innate immune system, and are single, membrane-spanning, non-catalytic receptors that recognize structurally conserved molecules derived from microbes, and are named after similar proteins found in Drosophila?
 
 ANSWER: Toll-like receptors
 
-Toss-up: Physics: Short Answer: Give by name or number all of the following 3 objects with the same mass and radius that would rotate faster than a sphere given a torque of 100 Nm:
+TOSSUP 5) Physics: Short Answer: Give by name or number all of the following 3 objects with the same mass and radius that would rotate faster than a sphere given a torque of 100 Nm:
 
-Hollow sphere
+1. Hollow sphere
 
-Rod rotated through its center
+2. Rod rotated through its center
 
-Thin solid disk rotated through its center
+3. Thin solid disk rotated through its center
 
 ANSWER: 2 ONLY
 
-Bonus: Physics: Short Answer: A farmer is pushing down on his 10 kg lawnmower, which has a coefficient of kinetic friction of 0.5 with the grass, at an angle 30 degrees to the horizontal with 200 N of force. What is the horizontal acceleration of the lawnmower, using g = 10 m/s2 and giving an exact value?
+Bonus 5) Physics: Short Answer: A farmer is pushing down on his 10 kg lawnmower, which has a coefficient of kinetic friction of 0.5 with the grass, at an angle 30 degrees to the horizontal with 200 N of force. What is the horizontal acceleration of the lawnmower, using g = 10 m/s2 and giving an exact value?
 
 ANSWER: (100√3 – 100) m/s2
 
-BIOLOGY Short Answer By name or number, indicate which 2 of the following 4 amino acids would be most prevalent in histones.
+Tossup 6) BIOLOGY Short Answer By name or number, indicate which 2 of the following 4 amino acids would be most prevalent in histones.
 
 1: phenylalanine
 
@@ -80,57 +80,57 @@ BIOLOGY Short Answer By name or number, indicate which 2 of the following 4 amin
 
 ANSWER: 2 and 4
 
-BIOLOGY Multiple Choice Which of the following applications of chemicals would be the least effective in the first aid of a dirty wound?
+Bonus 6) BIOLOGY Multiple Choice Which of the following applications of chemicals would be the least effective in the first aid of a dirty wound?
 
-w. antibiotics to prevent infection
+W) antibiotics to prevent infection
 
-x. hydrocortisone to reduce inflamation
+X) hydrocortisone to reduce inflamation
 
-y. hydrogen peroxide to disinfect the wound
+Y) hydrogen peroxide to disinfect the wound
 
-z. tincture of benzoine to help the adhesion of the bandage
+Z) tincture of benzoine to help the adhesion of the bandage
 
-ANSWER: x. hydrocortisone to reduce inflamation
+ANSWER: X) hydrocortisone to reduce inflamation
 
-Chemistry: Short Answer: What reaction, a variant of the aldol condensation, involves the reaction of an ester enolate with another ester to form a beta-keto ester?
+Tossup 7) Chemistry: Short Answer: What reaction, a variant of the aldol condensation, involves the reaction of an ester enolate with another ester to form a beta-keto ester?
 
 ANSWER: Claisen Reaction (ACCEPT: Claisen Condensation) 
 
-Chemistry: Short Answer: Give, by name or number, all of the following three statements that are true of hydrate formation of aldehydes and ketones.
+bonus 7) Chemistry: Short Answer: Give, by name or number, all of the following three statements that are true of hydrate formation of aldehydes and ketones.
 
-The formation of ketone hydrates is more favorable than that of aldehyde hydrates
+1. The formation of ketone hydrates is more favorable than that of aldehyde hydrates
 
-Hydration in alcohol solvents to produce acetals and hemiacetals is a protecting group strategy
+2. Hydration in alcohol solvents to produce acetals and hemiacetals is a protecting group strategy
 
-Perchlorinated acetone has an equilibrium constant of hydration much greater than 1
+3. Perchlorinated acetone has an equilibrium constant of hydration much greater than 1
 
 ANSWER: 2 AND 3
 
-MATH: Short Answer: Give, by name or number, all of the following three infinite summations that converge.
+Tossup 8) MATH: Short Answer: Give, by name or number, all of the following three infinite summations that converge.
 
-1. 
+1. &Sigma; 1/( n^(2/3) )
 
-2. 
+2. &Sigma; e^n /( n! )
 
-3. 
+3. &Sigma; n^3 * e^-n
 
 ANSWER: 2 and 3
 
-MATH: Short Answer: A particle moves on the x-axis with a displacement from its initial point given by the function s(t) = 4t3 - 12t – 1, where s(t) is in meters, and t is measured is seconds. If the particle is initially at +3 meters, what is the position of the particle and the time elapsed when it is changing direction?
+Bonus 8) MATH: Short Answer: A particle moves on the x-axis with a displacement from its initial point given by the function s(t) = 4t<sup>3</sup> - 12t – 1, where s(t) is in meters, and t is measured is seconds. If the particle is initially at +3 meters, what is the position of the particle and the time elapsed when it is changing direction?
 
 ANSWER: -5 meters, 1 second
 
-Energy: Short Answer: Give, by name or number, all of the following three reactions which have a positive value for ∆G.
+Tossup 9) ENERGY: Short Answer: Give, by name or number, all of the following three reactions which have a positive value for ∆G.
 
-Melting of ice at -5 degrees Celsius
+1. Melting of ice at -5 degrees Celsius
 
-Melting of ice at 5 degrees Celsius
+2. Melting of ice at 5 degrees Celsius
 
-Sublimation of ice at 5 degrees Celsius
+3. Sublimation of ice at 5 degrees Celsius
 
 ANSWER: 1 AND 3
 
-Energy: Multiple Choice: Which of the following are the correct natural variables for the thermodynamic function H, enthalpy, assuming constant number of particles and chemical potential? 
+Bonus 9) ENERGY: Multiple Choice: Which of the following are the correct natural variables for the thermodynamic function H, enthalpy, assuming constant number of particles and chemical potential? 
 
 W) Entropy and Volume
 
@@ -142,71 +142,71 @@ Z) Temperature and Pressure
 
 ANSWER: X
 
-PHYSICS Short Answer A straight line wire has a current running through it. At a point with a perpendicular distance R away from the wire, the magnetic field magnitude is measured to be B. In terms of B, what is the magnetic field of a point at 4R of the perpendicular distance away from the wire?
+Tossup 10) PHYSICS Short Answer A straight line wire has a current running through it. At a point with a perpendicular distance R away from the wire, the magnetic field magnitude is measured to be B. In terms of B, what is the magnetic field of a point at 4R of the perpendicular distance away from the wire?
 
 ANSWER: B/4
 
-PHYSICS Multiple Choice Which of the following statements best describes the essence of charging a conducting sphere by induction?
+Bonus 10) PHYSICS Multiple Choice Which of the following statements best describes the essence of charging a conducting sphere by induction?
 
-W. Friction causes electrons to be transferred from a metal with a low work function to one with a high work function
+W) Friction causes electrons to be transferred from a metal with a low work function to one with a high work function
 
-X. A test charge placed next to the sphere causes a migration of charge on the surface of the sphere, and a spark from the sphere to the test charge
+X) A test charge placed next to the sphere causes a migration of charge on the surface of the sphere, and a spark from the sphere to the test charge
 
-Y. A test charge placed next to the sphere causes a migration of charge on the surface of the sphere, and then the sphere is selectively grounded
+Y) A test charge placed next to the sphere causes a migration of charge on the surface of the sphere, and then the sphere is selectively grounded
 
-Z. A test charge is forced to make contact with the sphere until the electric potentials of both entities are identical
+Z) A test charge is forced to make contact with the sphere until the electric potentials of both entities are identical
 
 ANSWER: Y
 
-ESSC Short Answer What was a period of time approximately 4.1 to 3.8 billion years ago, during which a large number of impact craters are believed to have formed on the Moon?
+Tossup 11) EARTH AND SPACE Short Answer What was a period of time approximately 4.1 to 3.8 billion years ago, during which a large number of impact craters are believed to have formed on the Moon?
 
 ANSWER: Late Heavy Bombardment
 
-ESSC Short Answer What model is a scenario for the dynamical evolution of the Solar System, which proposes the migration of the giant planets from an initial compact configuration into their present positions, long after the dissipation of the initial protoplanetary gas disk?
+Bonus 11) EARTH AND SPACE Short Answer What model is a scenario for the dynamical evolution of the Solar System, which proposes the migration of the giant planets from an initial compact configuration into their present positions, long after the dissipation of the initial protoplanetary gas disk?
 
 ANSWER: Nice model
 
-Energy: Multiple Choice: Which of the following statements concerning NADH and FADH2 is NOT true?
+Tossup 12) ENERGY: Multiple Choice: Which of the following statements concerning NADH and FADH2 is NOT true?
 
-W. It is spontaneous for NADH to reduce FADH2
+W) It is spontaneous for NADH to reduce FADH2
 
-X. The energy in NADH is stored in high-energy phosphate linkages
+X) The energy in NADH is stored in high-energy phosphate linkages
 
-Y. In the ETC, NADH generally produces 2.5 ATP on average, whereas FADH2 produces 1.5 ATP
+Y) In the ETC, NADH generally produces 2.5 ATP on average, whereas FADH2 produces 1.5 ATP
 
-Z. The mechanism of reduction by NADH is hydride transfer
+Z) The mechanism of reduction by NADH is hydride transfer
 
 ANSWER: X
 
-Energy: Short Answer: What is the name given to the metabolic process that generates 5-carbon sugars used in nucleic acid synthesis, which has an oxidative and non-oxidative stage and a namesake step where phosphogluconate is converted to ribulose-5-phosphate in a decarboxylation coupled to NADP+ reduction?
+Bonus 12) ENERGY: Short Answer: What is the name given to the metabolic process that generates 5-carbon sugars used in nucleic acid synthesis, which has an oxidative and non-oxidative stage and a namesake step where phosphogluconate is converted to ribulose-5-phosphate in a decarboxylation coupled to NADP+ reduction?
 
 ANSWER: Pentose Phosphate Pathway
 
-MATH: Short Answer: What is the last digit of the number formed by the product of 777 and 321?
+Tossup 13) MATH: Short Answer: What is the last digit of the number formed by the product of 777 and 321?
 
 ANSWER: 1
 
-MATH: Short Answer: Find the eigenvector of the matrix with top row -3 and -2 and bottom row 1 and 0 which has eigenvalue -1.
+Bonus 13) MATH: Short Answer: Find the eigenvector of the matrix with top row -3 and -2 and bottom row 1 and 0 which has eigenvalue -1.
 
 ANSWER: (-1,1).
 
-Toss-up: Chemistry: Multiple Choice: Which of the following molecules is likely to have sp2 hybrid orbitals?
+Tossup 14) CHEMISTRY: Multiple Choice: Which of the following molecules is likely to have sp2 hybrid orbitals?
 
-W. NH3
+W) NH3
 
-X. C2H6
+X) C2H6
 
-Y. BF3
+Y) BF3
 
-Z. XeO2F2
+Z) XeO2F2
 
 ANSWER: Y
 
-Bonus: Chemistry: Short Answer: Calculate the change in molar entropy at standard states, or S at 298 K, for the reaction 2 NO(g) + O2(g)  2 NO2(g) if the following absolute standard entropy values are given: SNO = 210 J/K mol; SO2 = 160 J/K mol; SNO2 = 240 J/K mol.
+Bonus 14) Chemistry: Short Answer: Calculate the change in molar entropy at standard states, or S at 298 K, for the reaction 2 NO(g) + O2(g) -> 2 NO2(g) if the following absolute standard entropy values are given: SNO = 210 J/K mol; SO2 = 160 J/K mol; SNO2 = 240 J/K mol.
 
 ANSWER: -100 J/K mol
 
-ESSC Short Answer By name or number, indicate which 2 of the following 4 volcanic eruption types emit lava of mostly basaltic magma.
+Tossup 15) EARTH AND SPACE Short Answer By name or number, indicate which 2 of the following 4 volcanic eruption types emit lava of mostly basaltic magma.
 
 1: Strombolian
 
@@ -218,37 +218,37 @@ ESSC Short Answer By name or number, indicate which 2 of the following 4 volcani
 
 ANSWER: 1 and 3
 
-ESSC Short Answer Historically thought to be synonymous with Type II Cepheids, but now resolved into their own subclass – this subclass of Type II Cepheids is 1.5 times fainter than Type I Cepheids with similar periods, and is an important type of standard candle, obeying the period-luminosity relation. For four points, name this subclass of Type II Cepheids that have periods from 10-20 days.
+Bonus 15) EARTH AND SPACE Short Answer Historically thought to be synonymous with Type II Cepheids, but now resolved into their own subclass – this subclass of Type II Cepheids is 1.5 times fainter than Type I Cepheids with similar periods, and is an important type of standard candle, obeying the period-luminosity relation. For four points, name this subclass of Type II Cepheids that have periods from 10-20 days.
 
 ANSWER: W Virginis Variables
 
-BIOLOGY: Short Answer: Give, by name or number, all of the following three statements that are TRUE of bone anatomy.
+Tossup 16) BIOLOGY: Short Answer: Give, by name or number, all of the following three statements that are TRUE of bone anatomY)
 
-Haversian canals surround nerve and blood vessels throughout the bone
+1. Haversian canals surround nerve and blood vessels throughout the bone
 
-Osteocytes exchange nutrients and waste through tight junctions
+2. Osteocytes exchange nutrients and waste through tight junctions
 
-Osteoclasts respond to calcitonin and remineralize bone
+3. Osteoclasts respond to calcitonin and remineralize bone
 
 ANSWER: 1 ONLY
 
-BIOLOGY: Multiple Choice: What is the name of an 11-amino acid chain neuropeptide that belongs to the tachykinin family, is closely related to neurokinin A, and is involved in nociception? 
+Bonus 16) BIOLOGY: Multiple Choice: What is the name of an 11-amino acid chain neuropeptide that belongs to the tachykinin family, is closely related to neurokinin A, and is involved in nociception? 
 
 ANSWER: Substance P
 
-Physics: Multiple Choice: Imagine that a proton is in the center of a spherical region of constant positive charge density, and is moving outward at a constant rate. Which of the  following best describes the electric force felt by the proton as a function of time?
+Tossup 17) Physics: Multiple Choice: Imagine that a proton is in the center of a spherical region of constant positive charge density, and is moving outward at a constant rate. Which of the  following best describes the electric force felt by the proton as a function of time?
 
-W. Electric force increases linearly until the boundary, and upon leaving the region it decays as 1/r
+W) Electric force increases linearly until the boundary, and upon leaving the region it decays as 1/r
 
-X. Electric force increases linearly until the boundary, and upon leaving the region it decays as 1/r squared
+X) Electric force increases linearly until the boundary, and upon leaving the region it decays as 1/r squared
 
-Y. Electric force increases quadratically until the boundary, and upon leaving the region it decays as 1/r
+Y) Electric force increases quadratically until the boundary, and upon leaving the region it decays as 1/r
 
-Z. Electric force increases quadratically until the boundary, and upon leaving the region it decays as 1/r squared
+Z) Electric force increases quadratically until the boundary, and upon leaving the region it decays as 1/r squared
 
 ANSWER: X
 
-Physics: Short Answer: Give, by name or number, all of the following three statements that are true of electron-positron annhiliation.
+Tossup 18) Physics: Short Answer: Give, by name or number, all of the following three statements that are true of electron-positron annhiliation.
 
 W bosons are produced and re-annhiliated when a positron and electron with low kinetic energy interact
 
@@ -258,95 +258,95 @@ Two gamma rays are produced in the net transformation
 
 ANSWER: 2 AND 3
 
-Toss-up: Mathematics: Short Answer: First coined by Georg Cantor, what is the name of the property of a set with the same cardinality as some subset of the natural numbers, such that each element can be numerated one at a time?
+Toss-up 19) Mathematics: Short Answer: First coined by Georg Cantor, what is the name of the property of a set with the same cardinality as some subset of the natural numbers, such that each element can be numerated one at a time?
 
 ANSWER: Countable
 
-Bonus: Mathematics: Short Answer: Name all of the following four sets that is/are countable.
+Bonus 19) Mathematics: Short Answer: Name all of the following four sets that is/are countable.
 
-Set of all positive prime numbers.
+1. Set of all positive prime numbers.
 
-Set of all integers.
+2. Set of all integers.
 
-Set of all rational numbers.
+3. Set of all rational numbers.
 
-Set of all real numbers.
+4. Set of all real numbers.
 
 ANSWER: 1, 2 and 3
 
-Chemistry: Short Answer: Give, by name or number, all of the following three reagents or reactions that will oxidize primary alcohols to carboxylic acids.
+Tossup 20) Chemistry: Short Answer: Give, by name or number, all of the following three reagents or reactions that will oxidize primary alcohols to carboxylic acids.
 
-Swern Oxidation
+1. Swern Oxidation
 
-Chromium trioxide in sulfuric acid
+2. Chromium trioxide in sulfuric acid
 
-Potassium permanganate at medium heat
+3. Potassium permanganate at medium heat
 
 ANSWER: 2 AND 3
 
-Chemistry: Multiple Choice: Which of the following statements is false about the titration of alanine-hydrochloride by sodium hydroxide?
+Bonus 20) Chemistry: Multiple Choice: Which of the following statements is false about the titration of alanine-hydrochloride by sodium hydroxide?
 
-W. There are two equivalence points
+W) There are two equivalence points
 
-X. The ammonium is deprotonated first, following by the carboxylic acid
+X) The ammonium is deprotonated first, following by the carboxylic acid
 
-Y. The first equivalence point occurs at a pH of 3.5
+Y) The first equivalence point occurs at a pH of 3.5
 
-Z. A neutral species predominates after equivalence point 1
+Z) A neutral species predominates after equivalence point 1
 
 ANSWER: X
 
-Physics: Short Answer: These equations, which are ubiquitous in Fluid Mechanics, are a set of partial differential equations that describe the motions of fluid substances by the application of Newton’s Second Law to fluids.
+Tossup 21) Physics: Short Answer: These equations, which are ubiquitous in Fluid Mechanics, are a set of partial differential equations that describe the motions of fluid substances by the application of Newton’s Second Law to fluids.
 
 ANSWER: Navier-Stokes Equations
 
-Physics: Short Answer: Give, by name or number, the two of the following four statements that are true of an object at a distance d greater than zero from a lens that is convex and has focal length f. Assume d is less than f.
+Bonus 21) Physics: Short Answer: Give, by name or number, the two of the following four statements that are true of an object at a distance d greater than zero from a lens that is convex and has focal length f. Assume d is less than f.
 
-f is less than zero
+1. f is less than zero
 
-f is greater than zero
+2. f is greater than zero
 
-The image formed is virtual
+3. The image formed is virtual
 
-The image formed is real
+4. The image formed is real
 
 ANSWER: 2 AND 3
 
-ESSC: Multiple Choice: Which of the following is the best description for bok globules?
+Tossup 22) EARTH AND SPACE: Multiple Choice: Which of the following is the best description for bok globules?
 
-W. Hot objects where ionized and neutral hydrogen exist in interstellar space
+W) Hot objects where ionized and neutral hydrogen exist in interstellar space
 
-X. Massive objects of millions of solar masses which are dense star clusters
+X) Massive objects of millions of solar masses which are dense star clusters
 
-Y. Sparse clusters of pre-main sequence stars which are not yet able to begin nuclear fusion
+Y) Sparse clusters of pre-main sequence stars which are not yet able to begin nuclear fusion
 
-Z. Dark cold globs of interstellar dust in HII regions rich in  molecular hydrogen
+Z) Dark cold globs of interstellar dust in HII regions rich in  molecular hydrogen
 
 ANSWER: Z
 
-ESSC: Short Answer: Since spectral lines for molecular hydrogen gas in space are hard to detect, this diatomic molecule is generally detected instead as a signature for the existence of molecular hydrogen in molecular clouds.
+Bonus 22) EARTH AND SPACE: Short Answer: Since spectral lines for molecular hydrogen gas in space are hard to detect, this diatomic molecule is generally detected instead as a signature for the existence of molecular hydrogen in molecular clouds.
 
 ANSWER: Carbon Monoxide (ACCEPT: CO)
 
-Chemistry: Short Answer: Reagents with this functional group are reacted in the Huisgen click chemistry reaction with alkynes, and with triphenylphosphine to create amines in the Staudinger ligation. They rearrange in the Wolff reaction. Name this functional group, which is also the name of an anion that is used in airbags that rapidly decomposes to nitrogen gas.
+Tossup 23) Chemistry: Short Answer: Reagents with this functional group are reacted in the Huisgen click chemistry reaction with alkynes, and with triphenylphosphine to create amines in the Staudinger ligation. They rearrange in the Wolff reaction. Name this functional group, which is also the name of an anion that is used in airbags that rapidly decomposes to nitrogen gas.
 
 ANSWER: Azides
 
-Chemistry: Short Answer: Give, by name or number, all of the following three actions that would increase hemoglobin’s affinity for Oxygen.
+Bonus 23) Chemistry: Short Answer: Give, by name or number, all of the following three actions that would increase hemoglobin’s affinity for Oxygen.
 
-Increasing the blood pH
+1. Increasing the blood pH
 
-Increasing levels of intracellular 2,3-bisphosphoglycerate
+2. Increasing levels of intracellular 2,3-bisphosphoglycerate
 
-Increasing intercellular partial pressures of CO2
+3. Increasing intercellular partial pressures of CO2
 
 ANSWER: 1 ONLY
 
-MATH: Short Answer: Find the partial derivative with respect to y of the following multi-valued function : f(x,y,z) = 3xy + y ln(yz)
+Tossup 24) MATH: Short Answer: Find the partial derivative with respect to y of the following multi-valued function : f(x,y,z) = 3xy + y ln(yz)
 
 ANSWER: 3x + ln(yz) + 1 (ACCEPT EQUIVALENT FORMS)
 
-MATH: Multiple Choice: Which of the following statements concerning bases in linear algebra is NOT true?
+Bonus 24) MATH: Multiple Choice: Which of the following statements concerning bases in linear algebra is NOT true?
 
 W) Every basis for a given vector space has the same size
 
@@ -358,7 +358,7 @@ Z) The determinant of a matrix is invariant with respect to choice of basis
 
 ANSWER: X
 
-ENERGY: Multiple Choice: Which of the following pairs of isotopes, if fused, gives the most immediately promising nuclear reaction to be used for fusion power?
+Tossup 25) ENERGY: Multiple Choice: Which of the following pairs of isotopes, if fused, gives the most immediately promising nuclear reaction to be used for fusion power?
 
 W) Protium-Protium
 
@@ -370,23 +370,23 @@ Z) Deuterium-Helium3
 
 ANSWER: Y) Deuterium-Tritium
 
-ENERGY: Short Answer: What criterion in nuclear fusion research is an important general measure of a system that defines the conditions needed for a fusion reactor to reach ignition, or self-sustaining fusion?
+Bonus 25) ENERGY: Short Answer: What criterion in nuclear fusion research is an important general measure of a system that defines the conditions needed for a fusion reactor to reach ignition, or self-sustaining fusion?
 
 ANSWER: Lawson criterion
 
-Biology: Short Answer: Give, by name or number, the two of the following four things that would occur if the vagas nerve was stimulated.
+Tossup 26) Biology: Short Answer: Give, by name or number, the two of the following four things that would occur if the vagas nerve was stimulated.
 
-Heart rate would increase
+1. Heart rate would increase
 
-Stimulation of smooth muscle in stomach walls and glandular secretions
+2. Stimulation of smooth muscle in stomach walls and glandular secretions
 
-Heart rate would decrease
+3. Heart rate would decrease
 
-Decrease in smooth stomach muscle activity
+4. Decrease in smooth stomach muscle activity
 
 ANSWER: 2 AND 3
 
-Biology: Short Answer: Sort the following sugars into a series of increasing numbers of carbon atoms present: Xylose, Glyceraldehyde, Erythrose, Talose
+Bonus 26) Biology: Short Answer: Sort the following sugars into a series of increasing numbers of carbon atoms present: Xylose, Glyceraldehyde, Erythrose, Talose
 
 ANSWER: Glyceraldehyde, Erythrose, Xylose, Talose
 
