@@ -1,5 +1,6 @@
 import os
 import re
+import json
 
 categoryList = {
     "OTHER": -1,
@@ -18,14 +19,22 @@ categoryList = {
 
 searchString = (
     r"(?P<questionNum>\d\d)[\.\)].*(?P<category>[A-Z ]+)"
-    r"(?i)(Short Answer|Multiple Choice) (?P<tossupQ>[A-Za-z*])"
+    r"(?i)(Short Answer|Multiple Choice) (?P<tossupQ>[\S\s]*(?=ANSWER))"
+    r"ANSWER\: (?P<tossupA>[\S\s]*)\n"
 )
 
 replaceString = r"""
 {{
     "category": {categoryId},
     "questionNum": {questionNum},
-    "tossupQ": {tossupQ},
+    "tossupQ": "{tossupQ}",
+    "tossupA": "{tossupA}",
+    
+"""
+a="""
+"tossupA": "{tossupA}",
+ "bonusQ": {bonusQ},
+    "bonusA": {bonusA}
 }},
 """
 
@@ -36,18 +45,25 @@ def getCategoryId(category):
         return categoryList[category]
     else:
         print "can't find category: " + category
+        #raise ValueError("can\'t find cat" + category)
         return categoryList["OTHER"]
 
 def parse(text):
-    return re.sub(
+    jsonstring = re.sub(
         searchString,
         lambda m: replaceString.format(
             categoryId=getCategoryId(m.group('category')),
             questionNum = m.group('questionNum'),
-            tossupQ=m.group('tossupQ'),
+            tossupQ=m.group('tossupQ').strip(),
+            tossupA=m.group('tossupA').strip(),
+            #bonusQ=m.group('bonusQ'),
+            #bonusA=m.group('bonusA'),
             ),
         text
         )
+    print jsonstring
+    return jsonstring
+    #return json.loads("[" + jsonstring + "]")
 
 input_folder = "txt"
 output_folder = "txtoutput"
