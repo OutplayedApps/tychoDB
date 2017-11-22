@@ -20,6 +20,6 @@ with open('import/data.json') as json_data:
         entry['packetNum'] = 1
         entry['date_modified'] = datetime.now().isoformat()
         entry['date_created'] = datetime.now().isoformat()
-    # print str(d)
+    print str(d)
     questions.insert_many(d)
 print "done"
