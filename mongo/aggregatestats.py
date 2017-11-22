@@ -5,6 +5,7 @@ from bson.son import SON
 import pprint
 import os
 from bson.json_util import dumps
+from time import sleep
 
 def getEntryFileName(entry):
 	return "%s-%s-%s" % (entry["vendorNum"], entry["setNum"], entry["packetNum"])
@@ -51,7 +52,8 @@ file.close();
 print "writing to files..."
 for element in summary:
 	entry = element["_id"]
-	print entry
+	print str(entry)
 	file = open('./%s/%s.json' % (OUTPUT_DIR, getEntryFileName(entry)), 'w')
 	file.write(dumps(questions.find(entry), indent=2));
+	sleep(0.05)
 	file.close();
