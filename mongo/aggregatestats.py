@@ -32,28 +32,66 @@ summary = list(questions.aggregate(pipeline))
 
 metadata = {}
 
-for element in summary:
-	entry = element["_id"]
-	if not entry["vendorNum"] in metadata:
-		metadata[entry["vendorNum"]] = {}
-	if not entry["setNum"] in metadata[entry["vendorNum"]]:
-		metadata[entry["vendorNum"]][entry["setNum"]] = {}
-	if not entry["packetNum"] in metadata[entry["vendorNum"]][entry["setNum"]]:
-		# always called
-		metadata[entry["vendorNum"]][entry["setNum"]][entry["packetNum"]] = {"numQuestions": element["count"],
-			"fileName": getEntryFileName(entry)}
+def writeMetadata():
+	"""
+	Writes the metadata file from summary query.
+	"""
+	for element in summary:
+		entry = element["_id"]
+		if not entry["vendorNum"] in metadata:
+			metadata[entry["vendorNum"]] = {}
+		if not entry["setNum"] in metadata[entry["vendorNum"]]:
+			metadata[entry["vendorNum"]][entry["setNum"]] = {}
+		if not entry["packetNum"] in metadata[entry["vendorNum"]][entry["setNum"]]:
+			# always called
+			metadata[entry["vendorNum"]][entry["setNum"]][entry["packetNum"]] = {"numQuestions": element["count"],
+				"fileName": getEntryFileName(entry)}
 
-print "writing metadata..."
-file = open('./%s/metadata.json' % (OUTPUT_DIR), 'w')
-file.write(json.dumps(metadata, indent=2));
-file.close();
-
-
-print "writing to files..."
-for element in summary:
-	entry = element["_id"]
-	print str(entry)
-	file = open('./%s/%s.json' % (OUTPUT_DIR, getEntryFileName(entry)), 'w')
-	file.write(dumps(questions.find(entry), indent=2));
-	sleep(0.05)
+	print "writing metadata..."
+	file = open('./%s/metadata.json' % (OUTPUT_DIR), 'w')
+	file.write(json.dumps(metadata, indent=2));
 	file.close();
+
+def writeToFiles():
+	"""
+	Writes to local files (for use in the app).
+	"""
+	print "writing to files..."
+	for element in summary:
+		# entry is: packetNum, vendorNum, setNum identifier.
+		entry = element["_id"]
+		print str(entry)
+		file = open('./%s/%s.json' % (OUTPUT_DIR, getEntryFileName(entry)), 'w')
+		questionsInSet = questions.find(entry)
+		file.write(dumps(questionsInSet, indent=2))
+
+		sleep(0.05)
+		file.close();
+
+def convertTypes():
+	"""
+	Converts setNum, questionNum all to integers.
+	"""
+	for element in summary:
+		# entry is: packetNum, vendorNum, setNum identifier.
+		entry = element["_id"]
+		print str(entry)
+		#file = open('./%s/%s.json' % (OUTPUT_DIR, getEntryFileName(entry)), 'w')
+		questionsInSet = questions.find(entry)
+		for question in questionsInSet:
+			for attr in ["setNum", "questionNum"]:
+				if attr in question and isinstance(question[attr], basestring):
+					questions.update_one({"_id": question["_id"]}, {"$set": {attr: int(question[attr])}})
+					print 'updating one: ' + str(question["_id"]) + question["tossupQ"][1:10]
+					sleep(0.05)
+
+					#print question[attr]
+		#file.write(dumps(question, indent=2))
+
+		#sleep(0.05)
+		#file.close();
+
+
+# writeMetadata()
+# writeToFiles()
+convertTypes()
