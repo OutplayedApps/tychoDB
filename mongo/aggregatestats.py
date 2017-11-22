@@ -6,6 +6,7 @@ import pprint
 import os
 from bson.json_util import dumps
 from time import sleep
+from shutil import copyfile
 
 def getEntryFileName(entry):
 	return "%s-%s-%s" % (entry["vendorNum"], entry["setNum"], entry["packetNum"])
@@ -59,6 +60,13 @@ def updateMetadataLabels(metadata):
 	merge(labels, metadata)
 	file.close()
 
+def copy_labels_file():
+	"""
+	Copies labels file from current directory to output directory.
+	Not used in the app, but just good to have all the data be included in the app anyways.
+	"""
+	copyfile('./labels.json', './%s/labels.json' % (OUTPUT_DIR))
+
 def writeMetadata():
 	"""
 	Writes the metadata file from summary query.
@@ -79,12 +87,8 @@ def writeMetadata():
 	updateMetadataLabels(metadata)
 	file.write(json.dumps(metadata, indent=2));
 	file.close();
-"""
-from shutil import copyfile
-
-copyfile(src, dst)
-"""
-
+	copy_labels_file()
+	
 def writeToFiles():
 	"""
 	Writes to local files (for use in the app).
