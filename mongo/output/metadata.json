@@ -618,6 +618,14 @@
       "18": {
         "numQuestions": 25, 
         "fileName": "DOE-MS-1-18"
+      }, 
+      "16": {
+        "numQuestions": 1, 
+        "fileName": "DOE-MS-1-16"
+      }, 
+      "10": {
+        "numQuestions": 8, 
+        "fileName": "DOE-MS-1-10"
       }
     }, 
     "2": {
@@ -1060,16 +1068,6 @@
       "17": {
         "numQuestions": 23, 
         "fileName": "DOE-MS-8-17"
-      }
-    }, 
-    "1": {
-      "10": {
-        "numQuestions": 8, 
-        "fileName": "DOE-MS-1-10"
-      }, 
-      "16": {
-        "numQuestions": 1, 
-        "fileName": "DOE-MS-1-16"
       }
     }
   }

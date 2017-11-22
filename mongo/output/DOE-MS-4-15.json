@@ -14,7 +14,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd19"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 5, 
@@ -31,7 +31,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd1b"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 1, 
@@ -48,7 +48,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd1d"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 6, 
@@ -65,7 +65,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd1e"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 0, 
@@ -82,7 +82,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd1f"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 4, 
@@ -99,7 +99,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd20"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 0, 
@@ -116,7 +116,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd21"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 3, 
@@ -133,7 +133,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd22"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 1, 
@@ -150,7 +150,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd24"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -167,7 +167,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd25"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 6, 
@@ -184,7 +184,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd26"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 5, 
@@ -201,7 +201,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd27"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 3, 
@@ -218,7 +218,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd29"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 0, 
@@ -235,7 +235,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd2a"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 4, 
@@ -252,7 +252,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd2b"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 3, 
@@ -269,7 +269,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd2c"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 4, 
@@ -286,7 +286,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd2e"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 3, 
@@ -303,7 +303,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd30"
     }, 
-    "questionNum": "26"
+    "questionNum": 26
   }, 
   {
     "category": 0, 
@@ -320,7 +320,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd31"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }, 
   {
     "category": 4, 
@@ -337,7 +337,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd1c"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 1, 
@@ -354,7 +354,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd1a"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 6, 
@@ -371,7 +371,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd23"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 6, 
@@ -388,7 +388,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd28"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 1, 
@@ -405,7 +405,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd2d"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 5, 
@@ -422,6 +422,6 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd2f"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }
 ]

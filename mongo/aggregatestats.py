@@ -60,7 +60,7 @@ def writeToFiles():
 	for element in summary:
 		# entry is: packetNum, vendorNum, setNum identifier.
 		entry = element["_id"]
-		print str(entry)
+		print str(element)
 		file = open('./%s/%s.json' % (OUTPUT_DIR, getEntryFileName(entry)), 'w')
 		questionsInSet = questions.find(entry)
 		file.write(dumps(questionsInSet, indent=2))
@@ -76,7 +76,6 @@ def convertTypes():
 		# entry is: packetNum, vendorNum, setNum identifier.
 		entry = element["_id"]
 		print str(entry)
-		#file = open('./%s/%s.json' % (OUTPUT_DIR, getEntryFileName(entry)), 'w')
 		questionsInSet = questions.find(entry)
 		for question in questionsInSet:
 			for attr in ["setNum", "questionNum"]:
@@ -85,13 +84,7 @@ def convertTypes():
 					print 'updating one: ' + str(question["_id"]) + question["tossupQ"][1:10]
 					sleep(0.05)
 
-					#print question[attr]
-		#file.write(dumps(question, indent=2))
 
-		#sleep(0.05)
-		#file.close();
-
-
-# writeMetadata()
-# writeToFiles()
-convertTypes()
+writeMetadata()
+writeToFiles()
+# convertTypes()

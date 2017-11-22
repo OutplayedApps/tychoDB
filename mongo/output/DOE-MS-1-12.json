@@ -14,7 +14,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc996"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 0, 
@@ -31,7 +31,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc997"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 6, 
@@ -48,7 +48,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc999"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 1, 
@@ -65,7 +65,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc99a"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "bonusA": "24 HOURS AND 50 MINUTES", 
@@ -83,7 +83,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc99c"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 4, 
@@ -100,7 +100,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc99d"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 6, 
@@ -117,7 +117,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc99e"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 3, 
@@ -134,7 +134,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9a0"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 0, 
@@ -151,7 +151,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9a1"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 4, 
@@ -168,7 +168,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9a2"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 6, 
@@ -185,7 +185,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9a3"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -202,7 +202,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9a4"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 0, 
@@ -219,7 +219,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9a6"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 4, 
@@ -236,7 +236,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9a7"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 1, 
@@ -253,7 +253,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9a9"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 3, 
@@ -270,7 +270,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9aa"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 0, 
@@ -287,7 +287,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9ab"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 4, 
@@ -304,7 +304,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9ac"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 1, 
@@ -321,7 +321,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9ae"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }, 
   {
     "category": 1, 
@@ -338,7 +338,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc99f"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 4, 
@@ -355,7 +355,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc998"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 3, 
@@ -372,7 +372,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc99b"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 3, 
@@ -389,7 +389,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9a5"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 6, 
@@ -406,7 +406,7 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9a8"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 6, 
@@ -423,6 +423,6 @@
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9ad"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }
 ]

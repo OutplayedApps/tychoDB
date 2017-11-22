@@ -9,12 +9,12 @@
     "date_modified": "2017-11-22T11:43:52.764000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Arrange the following 4 liquid measures from the one with \nthe SMALLEST volume to the LARGEST: 1.5 gallons; 128 ounces; 1 deciliter; 2 liters", 
     "tossupA": "60", 
-    "setNum": "1", 
+    "setNum": 1, 
     "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc89c"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": "3", 
@@ -26,12 +26,12 @@
     "date_modified": "2017-11-22T18:49:20.580412", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Order the following 4 colors of light from the one with the \nLONGEST wavelength to the SHORTEST wavelength: orange; violet; red; yellow", 
     "tossupA": "Y) AMPLITUDE", 
-    "setNum": "1", 
+    "setNum": 1, 
     "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc89e"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": "0", 
@@ -40,15 +40,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice In which of the following climates are the WIDEST \nANNUAL temperature variations or temperature ranges most likely to occur: \n \nW) continental polar \nX) moist tropical \nY) tropical savanna \nZ) mid-latitude moist continental", 
     "packetNum": "10", 
     "grade": "MS", 
-    "date_modified": "2017-11-22T11:41:31.559000", 
-    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT true of the ozone layer: \n \nW) beneficial stratospheric ozone is produced naturally and harmful tropospheric ozone is human-\nmade \nX) the ozone molecule has 3 oxygen atoms \nY) in addition to chlorine, bromine is also responsible for combining with and breaking down the \nozone molecule \nZ) holes in the ozone layer are produced by global warming", 
+    "date_modified": "2017-11-22T14:21:15.412000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT true of the ozone layer: \n \nW) beneficial stratospheric ozone is produced naturally and harmful tropospheric ozone is human-made \nX) the ozone molecule has 3 oxygen atoms \nY) in addition to chlorine, bromine is also responsible for combining with and breaking down the ozone molecule \nZ) holes in the ozone layer are produced by global warming", 
     "tossupA": "Z) MID-LATITUDE MOIST CONTINENTAL \n \n(Solution: hot summers and cold winters; polar fronts moving northward or southward)", 
-    "setNum": "1", 
+    "setNum": 1, 
     "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc89f"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": "6", 
@@ -58,13 +58,13 @@
     "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "test", 
     "tossupA": "test", 
-    "setNum": "1", 
+    "setNum": 1, 
     "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a1324c66fd1dd33fc9a4a14"
     }, 
     "bonusA": "huhu", 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": "1", 
@@ -76,12 +76,12 @@
     "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 3 chemicals that are NOT amino acids: \nglycine; methionine; adenine", 
     "tossupA": "X) CONNECTIVE", 
-    "setNum": "1", 
+    "setNum": 1, 
     "date_created": "", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc89d"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": "6", 
@@ -91,13 +91,13 @@
     "date_modified": "2017-11-20T11:06:09.214000", 
     "bonusQ": "ghi", 
     "tossupA": "def", 
-    "setNum": "1", 
+    "setNum": 1, 
     "date_created": "2017-11-20T11:06:09.214000", 
     "_id": {
       "$oid": "5a1327a16fd1dd2bf4783ddf"
     }, 
     "bonusA": "jkl", 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": "6", 
@@ -107,13 +107,13 @@
     "date_modified": "2017-11-20T11:09:02.349000", 
     "bonusQ": "ghi", 
     "tossupA": "def", 
-    "setNum": "1", 
+    "setNum": 1, 
     "date_created": "2017-11-20T11:09:02.349000", 
     "_id": {
       "$oid": "5a13284e6fd1dd15d86ec4bf"
     }, 
     "bonusA": "jkl", 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": "5", 
@@ -123,12 +123,12 @@
     "date_modified": "2017-11-20T11:10:20.486000", 
     "bonusQ": "ghi", 
     "tossupA": "def", 
-    "setNum": "1", 
+    "setNum": 1, 
     "date_created": "2017-11-20T11:10:20.486000", 
     "_id": {
       "$oid": "5a13289c6fd1dd00e466ae77"
     }, 
     "bonusA": "jkl", 
-    "questionNum": "1"
+    "questionNum": 1
   }
 ]

@@ -14,7 +14,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf08"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 3, 
@@ -31,7 +31,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf09"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "bonusA": "NORTHERN HEMISPHERE", 
@@ -47,7 +47,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf0a"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 1, 
@@ -64,7 +64,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf0b"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 2, 
@@ -81,7 +81,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf0c"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 3, 
@@ -98,7 +98,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf0d"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 2, 
@@ -115,7 +115,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf0e"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 5, 
@@ -132,7 +132,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf10"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 0, 
@@ -149,7 +149,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf11"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 3, 
@@ -166,7 +166,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf12"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 5, 
@@ -183,7 +183,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf13"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -200,7 +200,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf15"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 5, 
@@ -217,7 +217,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf16"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 4, 
@@ -234,7 +234,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf18"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 2, 
@@ -251,7 +251,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf1b"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 3, 
@@ -268,7 +268,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf1c"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 2, 
@@ -285,7 +285,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf1d"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 1, 
@@ -302,7 +302,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf1e"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 0, 
@@ -319,7 +319,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf1f"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 1, 
@@ -336,7 +336,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf20"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }, 
   {
     "category": 4, 
@@ -353,7 +353,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf0f"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 4, 
@@ -370,7 +370,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf14"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 1, 
@@ -387,7 +387,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf17"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 0, 
@@ -404,7 +404,7 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf19"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 4, 
@@ -421,6 +421,6 @@
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf1a"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }
 ]

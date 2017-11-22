@@ -9,11 +9,11 @@
     "date_modified": "2017-11-22T13:32:32.915000", 
     "bonusQ": "GENERAL SCIENCE Short Answer From the EARLIEST to the LATEST, what are the 4 \nstrokes or stages in a typical 4-stroke internal combustion engine?", 
     "tossupA": "DOPPLER EFFECT", 
-    "setNum": "1", 
+    "setNum": 1, 
     "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc918"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }
 ]
