@@ -1,10 +1,26 @@
 {
+  "SAMPLE-DE-MS": {
+    "metadata": {
+      "displayLabel": "Sample DE (difficult)", 
+      "label": "Sample DE (difficult)"
+    }
+  }, 
   "SAMPLE-RR-HS": {
     "1": {
       "1": {
         "numQuestions": 25, 
+        "metadata": {
+          "label": "Assorted Questions 3.docx"
+        }, 
         "fileName": "SAMPLE-RR-HS-1-1"
+      }, 
+      "metadata": {
+        "label": "Questions imported 11/22/17"
       }
+    }, 
+    "metadata": {
+      "displayLabel": "Sample RR (easy and medium)", 
+      "label": "Sample RR (easy and medium)"
     }
   }, 
   "DOE-HS": {

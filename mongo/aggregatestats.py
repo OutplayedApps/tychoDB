@@ -32,6 +32,33 @@ summary = list(questions.aggregate(pipeline))
 
 metadata = {}
 
+def merge(source, destination):
+	"""
+	From https://stackoverflow.com/questions/20656135/python-deep-merge-dictionary-data
+	"""
+	for key, value in source.items():
+		if isinstance(value, dict):
+			# get node or create one
+			try: 
+				key = int(key)
+			except ValueError:
+				pass
+			node = destination.setdefault(key, {})
+			merge(value, node)
+		else:
+			destination[key] = value
+
+	return destination
+
+def updateMetadataLabels(metadata):
+	"""
+	Updates metadata's labels based on information in labels.json
+	"""
+	file = open('./labels.json', 'r')
+	labels = json.loads(file.read())
+	merge(labels, metadata)
+	file.close()
+
 def writeMetadata():
 	"""
 	Writes the metadata file from summary query.
@@ -49,8 +76,14 @@ def writeMetadata():
 
 	print "writing metadata..."
 	file = open('./%s/metadata.json' % (OUTPUT_DIR), 'w')
+	updateMetadataLabels(metadata)
 	file.write(json.dumps(metadata, indent=2));
 	file.close();
+"""
+from shutil import copyfile
+
+copyfile(src, dst)
+"""
 
 def writeToFiles():
 	"""
@@ -86,5 +119,5 @@ def convertTypes():
 
 
 writeMetadata()
-writeToFiles()
+# writeToFiles()
 # convertTypes()
