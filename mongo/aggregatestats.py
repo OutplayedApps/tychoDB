@@ -89,7 +89,7 @@ def writeMetadata():
 	file.close();
 	copy_labels_file()
 	
-def writeToFiles():
+def writeToFiles(vendorsToSkip=[]):
 	"""
 	Writes to local files (for use in the app).
 	"""
@@ -97,6 +97,8 @@ def writeToFiles():
 	for element in summary:
 		# entry is: packetNum, vendorNum, setNum identifier.
 		entry = element["_id"]
+		if entry["vendorNum"] in vendorsToSkip:
+			continue
 		print str(element)
 		file = open('./%s/%s.json' % (OUTPUT_DIR, getEntryFileName(entry)), 'w')
 		questionsInSet = questions.find(entry)
@@ -105,14 +107,16 @@ def writeToFiles():
 		sleep(0.05)
 		file.close();
 
-def convertTypes():
+def convertTypes(vendorsToSkip=[]):
 	"""
 	Converts setNum, questionNum all to integers.
 	"""
 	for element in summary:
 		# entry is: packetNum, vendorNum, setNum identifier.
 		entry = element["_id"]
-		print str(entry)
+		# print str(element)
+		if entry["vendorNum"] in vendorsToSkip:
+			continue
 		questionsInSet = questions.find(entry)
 		for question in questionsInSet:
 			for attr in ["setNum", "questionNum"]:
@@ -123,5 +127,6 @@ def convertTypes():
 
 
 writeMetadata()
-# writeToFiles()
-# convertTypes()
+# writeToFiles(["DOE-MS","DOE-HS"])
+writeToFiles()
+convertTypes()
