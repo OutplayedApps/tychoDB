@@ -70,13 +70,13 @@ def copy_labels_file():
 def isQuestion(entry, vendorsToSkip=[]):
 	return "vendorNum" in entry and not (entry["vendorNum"] in vendorsToSkip)
 
-def writeMetadata():
+def writeMetadata(vendorsToSkip = []):
 	"""
 	Writes the metadata file from summary query.
 	"""
 	for element in summary:
 		entry = element["_id"]
-		if not isQuestion(entry): continue
+		if not isQuestion(entry, vendorsToSkip): continue
 		if "setNum" in entry: entry["setNum"] = int(entry["setNum"])
 		if "packetNum" in entry: entry["packetNum"] = int(entry["packetNum"])
 		if "questionNum" in entry: entry["questionNum"] = int(entry["questionNum"])
@@ -92,7 +92,9 @@ def writeMetadata():
 	# print "writing metadata..."
 	file = open('./%s/metadata.json' % (OUTPUT_DIR), 'w')
 	updateMetadataLabels(metadata)
-	metadataCollection.update_one({"type": "metadata"}, {"$set": {"value": json.loads(json.dumps(metadata)), "date_modified": datetime.now().isoformat() }}, upsert=True)
+	dateNow = datetime.now().isoformat()
+	metadataCollection.update_one({"type": "metadata"}, {"$set": {"value": json.loads(json.dumps(metadata)), "date_modified": dateNow }}, upsert=True)
+	metadata["metadata"] = {"date_modified": dateNow};
 	file.write(json.dumps(metadata, indent=2));
 	file.close();
 	copy_labels_file()
@@ -105,7 +107,7 @@ def writeToFiles(vendorsToSkip=[]):
 	for element in summary:
 		# entry is: packetNum, vendorNum, setNum identifier.
 		entry = element["_id"]
-		if not isQuestion(entry): continue
+		if not isQuestion(entry, vendorsToSkip): continue
 		print str(element)
 		file = open('./%s/%s.json' % (OUTPUT_DIR, getEntryFileName(entry)), 'w')
 		questionsInSet = questions.find(entry)
@@ -121,7 +123,7 @@ def convertTypes(vendorsToSkip=[]):
 	for element in summary:
 		# entry is: packetNum, vendorNum, setNum identifier.
 		entry = element["_id"]
-		if not isQuestion(entry): continue
+		if not isQuestion(entry, vendorsToSkip): continue
 		questionsInSet = questions.find(entry)
 		for question in questionsInSet:
 			for attr in ["setNum", "questionNum", "packetNum"]:
@@ -132,6 +134,6 @@ def convertTypes(vendorsToSkip=[]):
 
 
 writeMetadata()
-# writeToFiles(["DOE-MS","DOE-HS"])
+writeToFiles(["DOE-MS","DOE-HS"])
 # writeToFiles()
 # convertTypes()
