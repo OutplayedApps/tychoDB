@@ -1,7 +1,21 @@
 Workflow:
-- Convert docx to text
+- Put docx files in "docx files input" directory.
+- Run ```node convert-to-txt.js```; output text files will be in "txt" directory.
 - Put text files in "txt" folders, and fix them manually as below.
 - Run ```python parse-txt.py```. Output (JSON) will be in txtoutput folder.
+- Copy the JSON files to /mongo/import/ directory.
+For each JSON file in the directory:
+- Rename this JSON file to "data.json".
+- Add a metadata entry with packet name / # in ```/mongo/labels.json```.
+- Manually edit packet parameters to match above in ```/mongo/importfromjson.py```; then run it.
+- Rinse and repeat.
+Finally, to generate metadata:
+- Run ```python /mongo/aggregatestats.py```. Comment / uncomment out the appropriate code to run!
+
+Notes:
+- ```/mongo/metadata.py``` has the pure metadata (just aggregate output of mongo command). ```/mongo/metadata.py``` and ```/mongo/labels.py``` are merged to create the ```/mongo/output/metadata.py```.
+- After done, copy the contents of the ```/mongo/output/``` directory to the ```/assets/packets``` folder in the Tycho app.
+
 
 Formatting guidelines
 
