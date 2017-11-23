@@ -2,12 +2,9 @@ import json
 from pymongo import MongoClient
 import urllib
 from datetime import datetime
+from secret import DB_MONGO_CONN_STRING
 
-user = 'tycho'
-pwd = 'tych0@@@'
-user = urllib.quote_plus(user)
-pwd = urllib.quote_plus(pwd)
-#client = MongoClient('mongodb://'+user+':'+pwd+'@ds113566.mlab.com:13566/tycho')
+#client = MongoClient(DB_MONGO_CONN_STRING)
 questions = client.tycho.questions
 
 with open('import/data.json') as json_data:

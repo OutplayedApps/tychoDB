@@ -7,15 +7,12 @@ import os
 from bson.json_util import dumps
 from time import sleep
 from shutil import copyfile
+from secret import DB_MONGO_CONN_STRING
 
 def getEntryFileName(entry):
 	return "%s-%s-%s" % (entry["vendorNum"], entry["setNum"], entry["packetNum"])
 
-user = 'tycho'
-pwd = 'tych0@@@'
-user = urllib.quote_plus(user)
-pwd = urllib.quote_plus(pwd)
-client = MongoClient('mongodb://'+user+':'+pwd+'@ds113566.mlab.com:13566/tycho')
+client = MongoClient(DB_MONGO_CONN_STRING)
 questions = client.tycho.questions
 OUTPUT_DIR = 'output'
 if not os.path.exists(OUTPUT_DIR):
@@ -119,7 +116,7 @@ def convertTypes(vendorsToSkip=[]):
 			continue
 		questionsInSet = questions.find(entry)
 		for question in questionsInSet:
-			for attr in ["setNum", "questionNum"]:
+			for attr in ["setNum", "questionNum", "packetNum"]:
 				if attr in question and isinstance(question[attr], basestring):
 					questions.update_one({"_id": question["_id"]}, {"$set": {attr: int(question[attr])}})
 					print 'updating one: ' + str(question["_id"]) + question["tossupQ"][1:10]
