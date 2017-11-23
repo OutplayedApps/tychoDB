@@ -1,7 +1,3 @@
-Full Round
-
-
-
 TOSS-UP 1) MATH Short Answer How many points of intersection are there between the cubic equation y = x^3 + 5x + 2 and the line y = 3?
 
 ANSWER: 1
