@@ -685,7 +685,7 @@
         "fileName": "DOE-MS-1-9"
       }, 
       "10": {
-        "numQuestions": 26, 
+        "numQuestions": 21, 
         "fileName": "DOE-MS-1-10"
       }, 
       "11": {
@@ -1161,12 +1161,6 @@
       "17": {
         "numQuestions": 23, 
         "fileName": "DOE-MS-8-17"
-      }
-    }, 
-    "1": {
-      "10": {
-        "numQuestions": 3, 
-        "fileName": "DOE-MS-1-10"
       }
     }, 
     "metadata": {

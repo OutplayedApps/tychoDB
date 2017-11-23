@@ -1,3 +1,7 @@
+packets to be fixed: https://github.com/epicfaace/tychoDB/tree/master/txt
+
+finished round: https://github.com/epicfaace/tychoDB/commit/8bdcb33ddb03fa8fe5724a82ce5ea762cc33f495
+
 Workflow:
 - Put docx files in "docx files input" directory.
 - Run ```node convert-to-txt.js```; output text files will be in "txt" directory.

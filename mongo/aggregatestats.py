@@ -8,12 +8,14 @@ from bson.json_util import dumps
 from time import sleep
 from shutil import copyfile
 from secret import DB_MONGO_CONN_STRING
+from datetime import datetime
 
 def getEntryFileName(entry):
 	return "%s-%s-%s" % (entry["vendorNum"], entry["setNum"], entry["packetNum"])
 
 client = MongoClient(DB_MONGO_CONN_STRING)
 questions = client.tycho.questions
+metadataCollection = client.tycho.metadata
 OUTPUT_DIR = 'output'
 if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)
@@ -27,6 +29,7 @@ pipeline = [
 ]
 
 summary = list(questions.aggregate(pipeline))
+print json.dumps(summary)
 
 metadata = {}
 
@@ -64,12 +67,19 @@ def copy_labels_file():
 	"""
 	copyfile('./labels.json', './%s/labels.json' % (OUTPUT_DIR))
 
+def isQuestion(entry, vendorsToSkip=[]):
+	return "vendorNum" in entry and not (entry["vendorNum"] in vendorsToSkip)
+
 def writeMetadata():
 	"""
 	Writes the metadata file from summary query.
 	"""
 	for element in summary:
 		entry = element["_id"]
+		if not isQuestion(entry): continue
+		if "setNum" in entry: entry["setNum"] = int(entry["setNum"])
+		if "packetNum" in entry: entry["packetNum"] = int(entry["packetNum"])
+		if "questionNum" in entry: entry["questionNum"] = int(entry["questionNum"])
 		if not entry["vendorNum"] in metadata:
 			metadata[entry["vendorNum"]] = {}
 		if not entry["setNum"] in metadata[entry["vendorNum"]]:
@@ -79,9 +89,10 @@ def writeMetadata():
 			metadata[entry["vendorNum"]][entry["setNum"]][entry["packetNum"]] = {"numQuestions": element["count"],
 				"fileName": getEntryFileName(entry)}
 
-	print "writing metadata..."
+	# print "writing metadata..."
 	file = open('./%s/metadata.json' % (OUTPUT_DIR), 'w')
 	updateMetadataLabels(metadata)
+	metadataCollection.update_one({"type": "metadata"}, {"$set": {"value": json.loads(json.dumps(metadata)), "date_modified": datetime.now().isoformat() }}, upsert=True)
 	file.write(json.dumps(metadata, indent=2));
 	file.close();
 	copy_labels_file()
@@ -94,8 +105,7 @@ def writeToFiles(vendorsToSkip=[]):
 	for element in summary:
 		# entry is: packetNum, vendorNum, setNum identifier.
 		entry = element["_id"]
-		if entry["vendorNum"] in vendorsToSkip:
-			continue
+		if not isQuestion(entry): continue
 		print str(element)
 		file = open('./%s/%s.json' % (OUTPUT_DIR, getEntryFileName(entry)), 'w')
 		questionsInSet = questions.find(entry)
@@ -111,9 +121,7 @@ def convertTypes(vendorsToSkip=[]):
 	for element in summary:
 		# entry is: packetNum, vendorNum, setNum identifier.
 		entry = element["_id"]
-		# print str(element)
-		if entry["vendorNum"] in vendorsToSkip:
-			continue
+		if not isQuestion(entry): continue
 		questionsInSet = questions.find(entry)
 		for question in questionsInSet:
 			for attr in ["setNum", "questionNum", "packetNum"]:
@@ -124,6 +132,6 @@ def convertTypes(vendorsToSkip=[]):
 
 
 writeMetadata()
-writeToFiles(["DOE-MS","DOE-HS"])
+# writeToFiles(["DOE-MS","DOE-HS"])
 # writeToFiles()
 # convertTypes()
