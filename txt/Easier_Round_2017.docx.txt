@@ -2,23 +2,23 @@ Full Round
 
 
 
-TOSS-UP MATH Short Answer How many points of intersection are there between the cubic equation y = x^3 + 5x + 2 and the line y = 3?
+TOSS-UP 1) MATH Short Answer How many points of intersection are there between the cubic equation y = x^3 + 5x + 2 and the line y = 3?
 
 ANSWER: 1
 
-BONUS MATH Short Answer Let n be equal to 55 to the power 77 minus 77 to the power 55. What is n mod 10? 
+BONUS 1) MATH Short Answer Let n be equal to 55 to the power 77 minus 77 to the power 55. What is n mod 10? 
 
 ANSWER: 2
 
-TOSS-UP PHYSICS Short Answer A 9 volt battery is connected to a 9 ohm resistor. The current flowing through this circuit is found to be 0.9 amperes. Neglecting the resistance of the wires, what is the internal resistance of the battery in ohms?
+TOSS-UP 2) PHYSICS Short Answer A 9 volt battery is connected to a 9 ohm resistor. The current flowing through this circuit is found to be 0.9 amperes. Neglecting the resistance of the wires, what is the internal resistance of the battery in ohms?
 
 ANSWER: 1
 
-BONUS PHYSICS Short Answer Consider a photon in air of frequency 10^15 Hz and wavelength 300 nm which enters water with index of refraction 1.33. What is the frequency, to the nearest Hz, and wavelength, to the nearest nm, of this photon in water?
+BONUS 2) PHYSICS Short Answer Consider a photon in air of frequency 10^15 Hz and wavelength 300 nm which enters water with index of refraction 1.33. What is the frequency, to the nearest Hz, and wavelength, to the nearest nm, of this photon in water?
 
 ANSWER: FREQUENCY IS 10^15 AND WAVELENGTH IS 225 
 
-TOSS-UP CHEMISTRY Multiple Choice Consider a reaction with delta(H) greater than delta(U). If the reaction is in gas phase equilibrium, which if the following statements is always TRUE?
+TOSS-UP 3) CHEMISTRY Multiple Choice Consider a reaction with delta(H) greater than delta(U). If the reaction is in gas phase equilibrium, which if the following statements is always TRUE?
 
 W) Increasing the temperature shifts the reaction to the right
 
@@ -30,11 +30,11 @@ Z) Increasing the volume shifts the reaction to the left
 
 ANSWER: Y
 
-BONUS CHEMISTRY Short Answer What cubic crystal structure for metals, which is more likely to exist at low pressures, has a unit cell with a total of 2 atoms inside?
+BONUS 3) CHEMISTRY Short Answer What cubic crystal structure for metals, which is more likely to exist at low pressures, has a unit cell with a total of 2 atoms inside?
 
 ANSWER: BODY-CENTERED CUBIC (ACCEPT: BCC)
 
-TOSS-UP ESSC Multiple Choice Which of the following statements was NOT a conclusion of the Hubble Deep Field data?
+TOSS-UP 4) ESSC Multiple Choice Which of the following statements was NOT a conclusion of the Hubble Deep Field data?
 
 W) AGN are less common at high redshifts
 
@@ -46,27 +46,33 @@ Z) High redshift galaxies are smaller than low redshift galaxies
 
 ANSWER: W
 
-BONUS ESSC Short Answer Suppose that the density of a black hole is determined by dividing its mass by the volume inside its event horizon. To the closest power of ten, what is the ratio of the density of a 10-solar mass black hole to that of a 1-million solar mass black hole?
+BONUS 4) ESSC Short Answer Suppose that the density of a black hole is determined by dividing its mass by the volume inside its event horizon. To the closest power of ten, what is the ratio of the density of a 10-solar mass black hole to that of a 1-million solar mass black hole?
 
 ANSWER: 10^10
 
-TOSS-UP BIOLOGY Short Answer What is the name of the enzyme in C4 plants that fixes carbon dioxide?
+TOSS-UP 5) BIOLOGY Short Answer What is the name of the enzyme in C4 plants that fixes carbon dioxide?
 
 ANSWER: PEP CARBOXYLASE
 
-BONUS BIOLOGY Short Answer Indicate all of the following three statements that are TRUE of the cardiovascular system: 1. Blood in the pulmonary vein has the highest oxygen concentration; 2. The P-wave is responsible for atrial repolarization; 3.  The atria contract with greater force than the ventricles.
+BONUS 5) BIOLOGY Short Answer Indicate all of the following three statements that are TRUE of the cardiovascular system: 
+
+1. Blood in the pulmonary vein has the highest oxygen concentration
+
+2. The P-wave is responsible for atrial repolarization
+
+3.  The atria contract with greater force than the ventricles
 
 ANSWER: 1 ONLY
 
-TOSS-UP ENERGY Short Answer Scientists at the DOE’s Nuclear Magnetic Resonance Core center are bombarding nuclei with what particles to determine their chemical shifts? 
+TOSS-UP 6) ENERGY Short Answer Scientists at the DOE’s Nuclear Magnetic Resonance Core center are bombarding nuclei with what particles to determine their chemical shifts? 
 
 ANSWER: PHOTONS (ACCEPT: RADIO PHOTONS)
 
-BONUS ENERGY Short Answer: What moving device in an electric generator reverses the current direction every half-cycle to make sure that DC power is generated?
+BONUS 6) ENERGY Short Answer: What moving device in an electric generator reverses the current direction every half-cycle to make sure that DC power is generated?
 
 ANSWER: COMMUTATOR
 
-TOSS-UP MATH Multiple Choice Consider a triangle with sides of length 5, 6, and 7. Which of the following statements concerning this triangle is FALSE?
+TOSS-UP 7) MATH Multiple Choice Consider a triangle with sides of length 5, 6, and 7. Which of the following statements concerning this triangle is FALSE?
 
 W) It cannot be obtuse
 
@@ -78,11 +84,11 @@ Z) The longest altitude is perpendicular to the side of length 7
 
 ANSWER: Z
 
-BONUS MATH Short Answer Consider a triangle with legs of length 5, 6, and 7. What is the length of the altitude from a vertex of the triangle to the leg of length 6? 
+BONUS 7) MATH Short Answer Consider a triangle with legs of length 5, 6, and 7. What is the length of the altitude from a vertex of the triangle to the leg of length 6? 
 
 ANSWER: 2 SQRT(6)
 
-TOSS-UP CHEMISTRY Multiple Choice Which of the following is FALSE concerning reaction kinetics?
+TOSS-UP 8) CHEMISTRY Multiple Choice Which of the following is FALSE concerning reaction kinetics?
 
 W) Beta-plus emission is a first-order process
 
@@ -94,27 +100,47 @@ Z) The steric factor has SI dimensions of meters-squared times seconds
 
 ANSWER: Z
 
-BONUS CHEMISTRY Short Answer Rank the following four elements in terms of increasing ionization energy: 1. Aluminum; 2. Silicon; 3. Phosphorus; 4. Sulfur.
+BONUS 8) CHEMISTRY Short Answer Rank the following four elements in terms of increasing ionization energy: 
+
+1. Aluminum
+
+2. Silicon
+
+3. Phosphorus
+
+4. Sulfur
 
 ANSWER: 1, 2, 4, 3
 
-TOSS-UP PHYSICS Short Answer Consider two projectiles; projectile A is shot at 60 degrees to the horizontal with velocity v, and projectile B is shot at 30 degrees to the horizontal with velocity v. What is the time of flight of A divided by the time of flight of B?
+TOSS-UP 9) PHYSICS Short Answer Consider two projectiles; projectile A is shot at 60 degrees to the horizontal with velocity v, and projectile B is shot at 30 degrees to the horizontal with velocity v. What is the time of flight of A divided by the time of flight of B?
 
 ANSWER: SQRT(3)
 
-BONUS PHYSICS Short Answer Secretary Chu is riding his bicycle through a vertical loop of radius 5 meters. What must his initial velocity be, to the nearest meter per second, to safely ride the entire loop without falling off?
+BONUS 9) PHYSICS Short Answer Secretary Chu is riding his bicycle through a vertical loop of radius 5 meters. What must his initial velocity be, to the nearest meter per second, to safely ride the entire loop without falling off?
 
 ANSWER: 16
 
-TOSS-UP BIOLOGY Short Answer Indicate all of the following three statements that are TRUE of Hymenoptera: 1. Ants are in hymenoptera; 2. An XX/X0 sex-determination system is common in this order; 3. Females generally possess an ovipositor.
+TOSS-UP 10) BIOLOGY Short Answer Indicate all of the following three statements that are TRUE of Hymenoptera: 
+
+1. Ants are in hymenoptera
+
+2. An XX/X0 sex-determination system is common in this order
+
+3. Females generally possess an ovipositor
 
 ANSWER: 1 AND 3
 
-BONUS BIOLOGY Short Answer Indicate all of the following three statements concerning antibodies that are TRUE: 1. IgM is a pentamer; 2. The J-chain is a component of IgD; 3. The light chain is made up of one variable region and one constant region.
+BONUS 10) BIOLOGY Short Answer Indicate all of the following three statements concerning antibodies that are TRUE: 
+
+1. IgM is a pentamer
+
+2. The J-chain is a component of IgD
+
+3. The light chain is made up of one variable region and one constant region
 
 ANSWER: 3 ONLY
 
-TOSS-UP ESSC Multiple Choice In which of the following locations would one mostly likely find an alluvial fan?
+TOSS-UP 11) ESSC Multiple Choice In which of the following locations would one mostly likely find an alluvial fan?
 
 W) Mouth of the Mississippi in the Gulf of Mexico
 
@@ -126,11 +152,11 @@ Z) Along of the lowermost edge of a slump in a densely vegetated region
 
 ANSWER: X
 
-BONUS ESSC Short Answer By what mechanism did a group led by James Eliot discover the rings of Uranus in 1977? 
+BONUS 11) ESSC Short Answer By what mechanism did a group led by James Eliot discover the rings of Uranus in 1977? 
 
 ANSWER: OCCULTATION (ACCEPT: OCCULTATION OF BACKGROUND STARS)
 
-TOSS-UP ENERGY Multiple Choice DOE scientists at Oak Ridge National Labs use spallation to generate a particle that is then used to penetrate matter deeply in scattering experiments. What is this particle?
+TOSS-UP 12) ENERGY Multiple Choice DOE scientists at Oak Ridge National Labs use spallation to generate a particle that is then used to penetrate matter deeply in scattering experiments. What is this particle?
 
 W) Photon
 
@@ -142,19 +168,31 @@ Z) Neutron
 
 ANSWER: Z
 
-BONUS ENERGY Short Answer: Indicate all of the following three statements that are TRUE of the Spallation Neutron Source at ORAU: 1. Thermal neutrons are used in scattering experiments; 2. Nuclei of tantalum or tungsten are bombarded with protons; 3. In neutron diffraction, elastic collisions between nuclei and neutrons are probed.
+BONUS 12) ENERGY Short Answer: Indicate all of the following three statements that are TRUE of the Spallation Neutron Source at ORAU: 
+
+1. Thermal neutrons are used in scattering experiments
+
+2. Nuclei of tantalum or tungsten are bombarded with protons
+
+3. In neutron diffraction, elastic collisions between nuclei and neutrons are probed
 
 ANSWER: 2 AND 3
 
-TOSS-UP MATH Short Answer Indicate all of the following three functions that have at least one complex zero: 1. f(x) = e to the x; 2. f(x) = secant of x; 3. f(x) = 10.
+TOSS-UP 13) MATH Short Answer Indicate all of the following three functions that have at least one complex zero: 
+
+1. f(x) = e to the x
+
+2. f(x) = secant of x
+
+3. f(x) = 10
 
 ANSWER: 1 AND 2
 
-BONUS MATH Short Answer Every day in the month of February 2017, Altair read a science bowl question, randomly from one of the six subjects, to the North Hollywood Science Bowl team. When the possible number of such 28-long sequences of question subjects is written in scientific notation, what is the exponent of ten?
+BONUS 13) MATH Short Answer Every day in the month of February 2017, Altair read a science bowl question, randomly from one of the six subjects, to the North Hollywood Science Bowl team. When the possible number of such 28-long sequences of question subjects is written in scientific notation, what is the exponent of ten?
 
 ANSWER: 21
 
-TOSS-UP BIOLOGY Multiple Choice In a histologic preparation stained with the H&E stain, the nucleus, cytoplasm, and collagen, respectively, would stain what colors?
+TOSS-UP 14) BIOLOGY Multiple Choice In a histologic preparation stained with the H&E stain, the nucleus, cytoplasm, and collagen, respectively, would stain what colors?
 
 W) Blue, pink, blue
 
@@ -166,15 +204,21 @@ Z) Pink, blue, blue
 
 ANSWER: X
 
-BONUS BIOLOGY Short Answer Arrange the following three RBC precursors from the first to the last in their developmental sequence: 1. Normoblast; 2. Hemocytoblast; 3. Reticulocyte.
+BONUS 14) BIOLOGY Short Answer Arrange the following three RBC precursors from the first to the last in their developmental sequence: 
+
+1. Normoblast
+
+2. Hemocytoblast
+
+3. Reticulocyte
 
 ANSWER: 2, 1, 3
 
-TOSS-UP CHEMISTRY Short Answer How many radial nodes are present in a 6p orbital? 
+TOSS-UP 15) CHEMISTRY Short Answer How many radial nodes are present in a 6p orbital? 
 
 ANSWER: 4
 
-BONUS CHEMISTRY Multiple Choice Which of the following statements best explains why silver fluoride is soluble, but silver chloride is not?
+BONUS 15) CHEMISTRY Multiple Choice Which of the following statements best explains why silver fluoride is soluble, but silver chloride is not?
 
 W) Ag+ and F- are both soft
 
@@ -186,7 +230,7 @@ Z) Ag+ and F- are both hard
 
 ANSWER: X
 
-TOSS-UP PHYSICS Multiple Choice Which of the following particles has zero spin?
+TOSS-UP 16) PHYSICS Multiple Choice Which of the following particles has zero spin?
 
 W) Higgs boson
 
@@ -198,15 +242,15 @@ Z) Photon
 
 ANSWER: W
 
-BONUS PHYSICS Short Answer Consider a toy composed of a string wrapped around a sphere. Once the sphere is dropped, it unrolls the string according to the free roll condition. What is the acceleration of the sphere, in terms of g?
+BONUS 16) PHYSICS Short Answer Consider a toy composed of a string wrapped around a sphere. Once the sphere is dropped, it unrolls the string according to the free roll condition. What is the acceleration of the sphere, in terms of g?
 
 ANSWER: 5g/7
 
-TOSS-UP ESSC Short Answer Consider a Kuiper belt object orbiting the sun in an elliptical orbit with a semi-major axis of 64 AU. What is this object’s orbital period in years?
+TOSS-UP 17) ESSC Short Answer Consider a Kuiper belt object orbiting the sun in an elliptical orbit with a semi-major axis of 64 AU. What is this object’s orbital period in years?
 
 ANSWER: 512
 
-BONUS ESSC Multiple Choice Which of the following statements best explains why dust particles orbiting the sun spiral into the sun over billions of years?
+BONUS 17) ESSC Multiple Choice Which of the following statements best explains why dust particles orbiting the sun spiral into the sun over billions of years?
 
 W) Drag due to radiation pressure from the Sun’s photons
 
@@ -218,31 +262,49 @@ Z) Drag due to electrostatic interactions with each other
 
 ANSWER: W
 
-TOSS-UP ENERGY Short Answer: Indicate all of the following three quantities that are higher for ethanol combustion than for gasoline combustion: 1. Energy density; 2. Thermal efficiency; 3. Octane rating.
+TOSS-UP 18) ENERGY Short Answer: Indicate all of the following three quantities that are higher for ethanol combustion than for gasoline combustion: 
+
+1. Energy density
+
+2. Thermal efficiency
+
+3. Octane rating
 
 ANSWER: 2 AND 3
 
-BONUS ENERGY Short Answer: Indicate all of the following three statements that are TRUE of nuclear power: 1. The energy released from the fission of a U-235 nucleus is about 200 MeV; 2. Most fission products have half-lives less than 100 years; 3. In the US, most nuclear waste is stored off-site.
+BONUS 18) ENERGY Short Answer: Indicate all of the following three statements that are TRUE of nuclear power: 
+
+1. The energy released from the fission of a U-235 nucleus is about 200 MeV
+
+2. Most fission products have half-lives less than 100 years
+
+3. In the US, most nuclear waste is stored off-site
 
 ANSWER: 1 ONLY
 
-TOSS-UP CHEMISTRY Short Answer Rank the following three compounds in terms of increasing boiling point: 1. Diethyl ether; 2. Ethanol; 3. Acetaldehyde.
+TOSS-UP 19) CHEMISTRY Short Answer Rank the following three compounds in terms of increasing boiling point: 
+
+1. Diethyl ether
+
+2. Ethanol
+
+3. Acetaldehyde
 
 ANSWER: 1, 3, 2
 
-BONUS CHEMISTRY Short Answer In the Williamson synthesis of diethyl ether, ethanol is first mixed with sodium hydride, and the resulting sodium ethoxide salt is added to ethyl bromide. What is the mechanism of the latter step of this synthesis?
+BONUS 19) CHEMISTRY Short Answer In the Williamson synthesis of diethyl ether, ethanol is first mixed with sodium hydride, and the resulting sodium ethoxide salt is added to ethyl bromide. What is the mechanism of the latter step of this synthesis?
 
 ANSWER: SN2
 
-TOSS-UP MATH Short Answer What is the base-10 value of 33-base-4 + 44-base-5 + 55-base-6?
+TOSS-UP 20) MATH Short Answer What is the base-10 value of 33-base-4 + 44-base-5 + 55-base-6?
 
 ANSWER: 74
 
-BONUS MATH Short Answer A family of four members has ages that are all different, such that the mean age is 34, the median age is 33, and the range of the ages is 32. What is the age of the youngest member in this family?
+BONUS 20) MATH Short Answer A family of four members has ages that are all different, such that the mean age is 34, the median age is 33, and the range of the ages is 32. What is the age of the youngest member in this family?
 
 ANSWER: 19
 
-TOSS-UP ESSC Multiple Choice Which of the following measurements would indicate that the mean temperature of the Earth had decreased?
+TOSS-UP 21) ESSC Multiple Choice Which of the following measurements would indicate that the mean temperature of the Earth had decreased?
 
 W) Global increase in the oxygen-18 to oxygen-16 ratio in calcium carbonate
 
@@ -254,19 +316,37 @@ Z) Global decrease in relative abundance of spruce pollen compared to grass poll
 
 ANSWER: W) GLOBAL INCREASE IN OXYGEN-18 to OXYGEN-16 RATIO IN CALCIUM CARBONATE
 
-BONUS ESSC Short Answer Rank water in the following three locations in terms of increasing O-18 to O-16 ratio: 1. Ocean; 2. Atmosphere; 3. Ice sheets.
+BONUS 21) ESSC Short Answer Rank water in the following three locations in terms of increasing O-18 to O-16 ratio: 
+
+1. Ocean
+
+2. Atmosphere
+
+3. Ice sheets
 
 ANSWER: 3, 2, 1
 
-TOSS-UP CHEMISTRY Short Answer Indicate all of the following three statements that are TRUE of titrations: 1. The titration of acetic acid with sodium hydroxide has a half-equivalence point with pH less than 7; 2. The titration of acidified lysine with sodium hydroxide has 3 equivalence points; 3. Phenolphthalein has a pKa of 9.4. 
+TOSS-UP 22) CHEMISTRY Short Answer Indicate all of the following three statements that are TRUE of titrations: 
+
+1. The titration of acetic acid with sodium hydroxide has a half-equivalence point with pH less than 7
+
+2. The titration of acidified lysine with sodium hydroxide has 3 equivalence points
+
+3. Phenolphthalein has a pKa of 9.4
 
 ANSWER: ALL OF THEM
 
-BONUS CHEMISTRY Short Answer Indicate all of the following three industrial processes that are matched correctly to their end product: 1. Bessemer process and chromium; 2. Mond process and nickel; 3. Downs cell process and sodium.
+BONUS 22) CHEMISTRY Short Answer Indicate all of the following three industrial processes that are matched correctly to their end product: 
+
+1. Bessemer process and chromium
+
+2. Mond process and nickel
+
+3. Downs cell process and sodium
 
 ANSWER: 2 AND 3
 
-TOSS-UP BIOLOGY Multiple Choice Which of the following vitamins is matched incorrectly to its respective deficiency condition?
+TOSS-UP 23) BIOLOGY Multiple Choice Which of the following vitamins is matched incorrectly to its respective deficiency condition?
 
 W) Ascorbic acid and scurvy
 
@@ -278,23 +358,29 @@ Z) Niacin and rickets
 
 ANSWER: Z
 
-BONUS BIOLOGY Short Answer What cells in the GI tract secrete a glycoprotein that is needed for bacterially-synthesized and dietary vitamin B12 to be absorbed?
+BONUS 23) BIOLOGY Short Answer What cells in the GI tract secrete a glycoprotein that is needed for bacterially-synthesized and dietary vitamin B12 to be absorbed?
 
 ANSWER: PARIETAL CELLS
 
-TOSS-UP PHYSICS Short Answer Indicate all of the following three statements that are TRUE of orbits: 1. Hyperbolic orbits have negative total mechanical energy; 2. The average kinetic energy of an elliptical orbit is greater than negative one-half the average potential energy; 3. All gravitational 2-body orbits are in a single plane.
+TOSS-UP 24) PHYSICS Short Answer Indicate all of the following three statements that are TRUE of orbits: 
+
+1. Hyperbolic orbits have negative total mechanical energy
+
+2. The average kinetic energy of an elliptical orbit is greater than negative one-half the average potential energy
+
+3. All gravitational 2-body orbits are in a single plane
 
 ANSWER: 3 ONLY
 
-BONUS PHYSICS Short Answer Consider an RL circuit with a voltage source of 50 volts, a resistor with resistance 10 ohms, and a 20 millihenry inductor. The voltage source is turned on at time t = 0. What is the energy in joules stored by the inductor at t = infinity? 
+BONUS 24) PHYSICS Short Answer Consider an RL circuit with a voltage source of 50 volts, a resistor with resistance 10 ohms, and a 20 millihenry inductor. The voltage source is turned on at time t = 0. What is the energy in joules stored by the inductor at t = infinity? 
 
 ANSWER: 0.25
 
-TOSS-UP ENERGY Short Answer: The miniGRAIL resonant mass antenna, as part of an collaboration between LBNL and Leiden University, is a pure silicon-28 sphere weighing approximately 1 ton, cooled to 20 milliKelvin. What phenomena is this massive sphere used to detect and measure?
+TOSS-UP 25) ENERGY Short Answer: The miniGRAIL resonant mass antenna, as part of an collaboration between LBNL and Leiden University, is a pure silicon-28 sphere weighing approximately 1 ton, cooled to 20 milliKelvin. What phenomena is this massive sphere used to detect and measure?
 
 ANSWER: GRAVITATIONAL WAVES
 
-BONUS ENERGY Short Answer What nanoscale semiconductor particles, which confine electrons, have bulk properties, like color, that depend on particle size?
+BONUS 25) ENERGY Short Answer What nanoscale semiconductor particles, which confine electrons, have bulk properties, like color, that depend on particle size?
 
 ANSWER: QUANTUM DOTS
 
