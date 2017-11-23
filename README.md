@@ -8,6 +8,7 @@ For each JSON file in the directory:
 - Rename this JSON file to "data.json".
 - Add a metadata entry with packet name / # in ```/mongo/labels.json```.
 - Manually edit packet parameters to match above in ```/mongo/importfromjson.py```; then run it.
+- Add both the txt file and JSON file to the ```/successfully imported``` directory.
 - Rinse and repeat.
 Finally, to generate metadata:
 - Run ```python /mongo/aggregatestats.py```. Comment / uncomment out the appropriate code to run!

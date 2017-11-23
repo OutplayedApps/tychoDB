@@ -12,9 +12,9 @@ with open('import/data.json') as json_data:
     for entry in d:
     	if (hasattr(entry, "questionNum")):
     		entry.questionNum = int(entry.questionNum)
-        entry['vendorNum'] = 'SAMPLE-DE-HS'
+        entry['vendorNum'] = 'SAMPLE-RR-HS'
     	entry['setNum'] = 1
-        entry['packetNum'] = 2
+        entry['packetNum'] = 6
         entry['date_modified'] = datetime.now().isoformat()
         entry['date_created'] = datetime.now().isoformat()
     print str(d)
