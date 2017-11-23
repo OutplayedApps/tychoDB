@@ -124,6 +124,6 @@ def convertTypes(vendorsToSkip=[]):
 
 
 writeMetadata()
-# writeToFiles(["DOE-MS","DOE-HS"])
+writeToFiles(["DOE-MS","DOE-HS"])
 # writeToFiles()
 # convertTypes()
