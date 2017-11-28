@@ -99,21 +99,30 @@ def writeMetadata(vendorsToSkip = []):
 	file.close();
 	copy_labels_file()
 	
-def writeToFiles(vendorsToSkip=[]):
+def writeToFiles(vendorsToSkip=[], separateFiles = False):
 	"""
 	Writes to local files (for use in the app).
 	"""
 	print "writing to files..."
+	everything = {}
 	for element in summary:
 		# entry is: packetNum, vendorNum, setNum identifier.
 		entry = element["_id"]
 		if not isQuestion(entry, vendorsToSkip): continue
-		print str(element)
-		file = open('./%s/%s.json' % (OUTPUT_DIR, getEntryFileName(entry)), 'w')
+		entryFileName = getEntryFileName(entry)
+		#print str(entry['tossupQ'])
+		questionsInSet = questions.find(entry, {"tossupQ": 1, "tossupA": 1, "bonusQ": 1, "bonusA": 1, "questionNum": 1})
+		if separateFiles:
+			file = open('./%s/%s.json' % (OUTPUT_DIR, entryFileName), 'w')
+			file.write(dumps(questionsInSet, indent=2))
+			file.close();
+			sleep(0.05)
+		else:
+			everything[entryFileName] = questionsInSet
+	if not separateFiles:
+		file = open('./%s/all.json' % (OUTPUT_DIR, ), 'w')
 		questionsInSet = questions.find(entry)
-		file.write(dumps(questionsInSet, indent=2))
-
-		sleep(0.05)
+		file.write(dumps(everything))
 		file.close();
 
 def convertTypes(vendorsToSkip=[]):
@@ -134,6 +143,6 @@ def convertTypes(vendorsToSkip=[]):
 
 
 writeMetadata()
-writeToFiles(["DOE-MS","DOE-HS"])
-# writeToFiles()
+# writeToFiles(["DOE-MS","DOE-HS"])
+writeToFiles()
 # convertTypes()
