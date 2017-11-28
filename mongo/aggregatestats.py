@@ -111,7 +111,7 @@ def writeToFiles(vendorsToSkip=[], separateFiles = False):
 		if not isQuestion(entry, vendorsToSkip): continue
 		entryFileName = getEntryFileName(entry)
 		#print str(entry['tossupQ'])
-		questionsInSet = questions.find(entry, {"tossupQ": 1, "tossupA": 1, "bonusQ": 1, "bonusA": 1, "questionNum": 1})
+		questionsInSet = questions.find(entry, {"tossupQ": 1, "tossupA": 1, "bonusQ": 1, "bonusA": 1, "questionNum": 1, "category": 1})
 		if separateFiles:
 			file = open('./%s/%s.json' % (OUTPUT_DIR, entryFileName), 'w')
 			file.write(dumps(questionsInSet, indent=2))
